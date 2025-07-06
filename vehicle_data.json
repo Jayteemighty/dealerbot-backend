@@ -1,0 +1,2638 @@
+{
+    "escape": {
+      "2025 Escape Hybrid Platinum": {
+        "vehicle_name": "2025 Escape Hybrid Platinum",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Escape Hybrid",
+          "trim": "Platinum",
+          "vehicle_type": "Hybrid"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Escape/2025/HD-TILE[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000WH.~5WS00.~A7FAC.~BAYAB.~BY1AB.~C1CAB.~D2VLE.~DBCAC.~DR--A.~EN-BG.~FI4AB.~IDBA6.~J4WAD.~PN4HR.~VS-DE.~YZDAB]/INT/2/vehicle.png"
+        ],
+        "specifications": {
+          "horsepower": "163 SAE net @ 6,250 rpm",
+          "epa_range": "42.0 City/36.0 Hwy",
+          "torque": "155 lb.-ft. @ 4,500 rpm",
+          "exterior_color": "Star White Metallic Tri-coat",
+          "interior_color": "Space Gray",
+          "wheel_type": "19\u201d Machined-face Aluminum Wheels with Dark Tarnished Painted Pockets",
+          "drive": "Front-Wheel Drive"
+        },
+        "features": {
+          "exterior": [
+            "19\u201d Machined-face Aluminum Wheels with Dark Tarnished Painted Pockets",
+            "225/55 R1\u2013 225/55R19 99H All Season (A/S) BSW Tires",
+            "Adaptive Cruise Control",
+            "Black Roof-Rack Rails",
+            "Electronic Fuel Door Release",
+            "Mini Spare Wheel - 17\" Mini Steel",
+            "Mirrors, Sideview - Heated",
+            "Power Liftgate",
+            "Privacy Glass \u2013 Second Row Side and Liftgate",
+            "Rear Parking Sensor",
+            "SecuriCode\u00ae Illuminated Door Entry Keypad",
+            "Star White Metallic Tri-coat"
+          ],
+          "interior": [
+            "10-Way Power Driver Seat",
+            "6-Way Power Front Passenger",
+            "ActiveX\u00ae Trimmed Seats with Quilting Design and Mini-Perforation",
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Evasive Steering Assist",
+            "Floor Liners \u2013 Front and Rear (with Carpet Mats)",
+            "Floor Mats \u2013 Carpeted Front and Rear",
+            "Head-Up Display",
+            "Heated Front Row Seats",
+            "Heated Steering Wheel",
+            "Lane Centering Assist",
+            "Reverse Brake Assist",
+            "Space Gray",
+            "Wrapped Steering Wheel"
+          ],
+          "functional": [
+            "13.2\" LCD Capacitive Touchscreen with Swipe Capability",
+            "2.5L iVCT Atkinson Cycle I-4 Hybrid Engine",
+            "AM/FM Stereo with 6 Speakers with Sirus XM and SYNC3",
+            "B&O\u00ae Sound System by Bang & Olufsen\u00ae \u2013 10 Speakers Including Subwoofer",
+            "Connected Navigation with 1 Year of Connectivity",
+            "Front-Wheel Drive",
+            "HD Radio\u2122",
+            "Hybrid",
+            "Neutral Towing Capability",
+            "Remote Start System",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L*",
+            "Wireless Charging Pad",
+            "eCVT Transmission"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nHybrid Component Warranty: 8 years / 100,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMCU0JZ9SUB14407"
+      },
+      "2024 Escape Plugin Hybrid Plug-in Hybrid": {
+        "vehicle_name": "2024 Escape Plugin Hybrid Plug-in Hybrid",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Escape Plugin Hybrid",
+          "trim": "Plug-in Hybrid",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Escape/2024/HD-TILE[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2024%7C1%7C1.%7C~000E6.~13H00.~BY1AB.~D2UB1.~DBCAB.~DR--A.~EN-BG.~PN4JA.~VS-HI.~YZDBA]/INT/2/vehicle.png"
+        ],
+        "price": "$36,674.56",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "163 SAE net @ 6,250 rpm",
+          "epa_range": "42.0 City/36.0 Hwy",
+          "torque": "155 lb.-ft. @ 4,500 rpm",
+          "exterior_color": "Carbonized Gray",
+          "interior_color": "Ebony Black",
+          "wheel_type": "18\u201d Machined-face Magnetic Aluminum with Painted Pockets",
+          "drive": "Front-Wheel Drive"
+        },
+        "features": {
+          "exterior": [
+            "18\u201d Machined-face Magnetic Aluminum with Painted Pockets",
+            "225/60R18 All Season (A/S) BSW",
+            "Adaptive Cruise Control",
+            "Black Roof-Rack Rails",
+            "Carbonized Gray",
+            "Electronic Fuel Door Release",
+            "Mirrors, Sideview - Heated",
+            "Neutral Towing Capability",
+            "Pedestrian Alert Sounder",
+            "Power Liftgate",
+            "Privacy Glass \u2013 Second Row Side and Liftgate",
+            "Remote Start System"
+          ],
+          "interior": [
+            "13.2\" LCD Capacitive Touchscreen with Swipe Capability",
+            "8-Way Power Driver Seat",
+            "Carpeted Front and Rear Floor Mats",
+            "Dual-Zone Electronic Automatic Temperature Control (DEATC)",
+            "Ebony Black",
+            "Evasive Steering Assist",
+            "Heated Front Row Seats",
+            "Heated Steering Wheel",
+            "Lane Centering Assist",
+            "Mini Spare Wheel - 17\" Mini Steel",
+            "Partial Vinyl and Cloth Seats",
+            "Premium Wrapped Steering Wheel"
+          ],
+          "functional": [
+            "2.5L iVCT Atkinson Cycle I-4 Plug-In Hybrid Engine",
+            "AM/FM Stereo with 6 Speakers, SYNC\u00ae 4 with Enhanced Voice Recognition, and SiriusXM",
+            "Connected Navigation",
+            "Front-Wheel Drive",
+            "Plug-in Hybrid",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L",
+            "eCVT Transmission"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nHybrid Component Warranty: 8 years / 100,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMCU0E17RUB08166"
+      },
+      "2025 Escape Hybrid ST-Line Elite": {
+        "vehicle_name": "2025 Escape Hybrid ST-Line Elite",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Escape",
+          "trim": "Hybrid ST-Line Elite",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Escape/2025/HD-TILE[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~5WS00.~A7FAC.~BY1AB.~D2VCH.~DBCAC.~DR--E.~EN-BG.~IDBA6.~J4WAD.~PN4HR.~VS-D9.~YZCCA]/INT/2/vehicle.png"
+        ],
+        "price": "$39,825.75",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "163 SAE net @ 6,250 rpm",
+          "epa_range": "42.0 City/36.0 Hwy",
+          "torque": "155 lb.-ft. @ 4,500 rpm",
+          "exterior_color": "Star White Metallic Tri-coat",
+          "interior_color": "Ebony with Red Stitching",
+          "wheel_type": "19\u201d Ebony-painted Aluminum Wheels",
+          "drive": "All-Wheel Drive"
+        },
+        "features": {
+          "exterior": [
+            "19\u201d Ebony-painted Aluminum Wheels",
+            "225/55 R1\u2013 225/55R19 99H All Season (A/S) BSW Tires",
+            "Adaptive Cruise Control",
+            "Black Roof-Rack Rails",
+            "Electronic Fuel Door Release",
+            "Mini Spare Wheel - 17\" Mini Steel",
+            "Mirrors, Sideview - Heated",
+            "Power Liftgate",
+            "Privacy Glass \u2013 Second Row Side and Liftgate",
+            "Rear Parking Sensor",
+            "Star White Metallic Tri-coat"
+          ],
+          "interior": [
+            "10-Way Power Driver Seat",
+            "6-Way Power Front Passenger",
+            "ActiveX\u00ae Trimmed Seats with Quilting Design and Mini-Perforation",
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Ebony with Red Stitching",
+            "Evasive Steering Assist",
+            "Floor Mats \u2013 Carpeted Front and Rear",
+            "Head-Up Display",
+            "Heated Front Row Seats",
+            "Heated Steering Wheel",
+            "Lane Centering Assist",
+            "Reverse Brake Assist"
+          ],
+          "functional": [
+            "13.2\" LCD Capacitive Touchscreen with Swipe Capability",
+            "2.5L iVCT Atkinson Cycle I-4 Hybrid Engine",
+            "AM/FM Stereo with 6 Speakers with Sirus XM and SYNC3",
+            "All-Wheel Drive",
+            "B&O\u00ae Sound System by Bang & Olufsen\u00ae \u2013 10 Speakers Including Subwoofer",
+            "Connected Navigation with 1 Year of Connectivity",
+            "HD Radio\u2122",
+            "Hybrid",
+            "Neutral Towing Capability",
+            "Remote Start System",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L*",
+            "Wireless Charging Pad",
+            "eCVT Transmission"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nHybrid Component Warranty: 8 years / 100,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMCU9PZ7SUA55689"
+      },
+      "2025 Escape\u00ae Active\u2122": {
+        "vehicle_name": "2025 Escape\u00ae Active\u2122",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Escape",
+          "trim": "Active",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Escape/2025/HD-TILE[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000E6.~13F00.~D2YBT.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-DB.~YZBBA]/INT/2/vehicle.png"
+        ],
+        "price": "$30,570.45",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "180 SAE net @ 6,000 rpm",
+          "epa_range": "27.0 City/34.0 Hwy",
+          "torque": "199 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Space Silver Metallic",
+          "interior_color": "Ebony Black",
+          "wheel_type": "17\u201d Shadow Silver-painted Aluminum Wheels",
+          "drive": "Front-Wheel Drive"
+        },
+        "features": {
+          "exterior": [
+            "17\u201d Shadow Silver-painted Aluminum Wheels",
+            "225/65 R17 102H A/S BSW Tires",
+            "Adaptive Cruise Control",
+            "Liftgate \u2013 Manual",
+            "Mini Spare Wheel - 17\" Mini Steel",
+            "Privacy Glass \u2013 Second Row Side and Liftgate",
+            "Rear Parking Sensor",
+            "Space Silver Metallic",
+            "Tire Inflator and Sealant Kit"
+          ],
+          "interior": [
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Ebony Black",
+            "Evasive Steering Assist",
+            "Floor Mats \u2013 Carpeted Front and Rear",
+            "Lane Centering Assist",
+            "Unique Cloth Seats"
+          ],
+          "functional": [
+            "1.5L EcoBoost\u00ae with Auto Start-Stop Technology",
+            "13.2\" LCD Capacitive Touchscreen with Swipe Capability",
+            "8-Speed Automatic Transmission",
+            "Connected Navigation with 1 Year of Connectivity",
+            "Front-Wheel Drive",
+            "Gas",
+            "SYNC\u00ae 4",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L*"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nHybrid Component Warranty: 8 years / 100,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMCU0GN5SUA96203"
+      },
+      "2025 Escape\u00ae ST-Line": {
+        "vehicle_name": "2025 Escape\u00ae ST-Line",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Escape",
+          "trim": "ST-Line",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Escape/2025/HD-TILE[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Escape/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CEscape%7C2025%7C1%7C1.%7C~000HM.~13H00.~A7FAC.~BAYAB.~D2UA8.~DBCAB.~DR--A.~EN-CR.~PN4HZ.~VS-JY.~YZBCA]/INT/2/vehicle.png"
+        ],
+        "price": "$31,968.45",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "180 SAE net @ 6,000 rpm",
+          "epa_range": "27.0 City/34.0 Hwy",
+          "torque": "199 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Space Silver Metallic",
+          "interior_color": "Ebony with Red Stitching",
+          "wheel_type": "18\u201d Rock Metallic painted Aluminum Wheels - ST-Line",
+          "drive": "Front-Wheel Drive"
+        },
+        "features": {
+          "exterior": [
+            "18\u201d Rock Metallic painted Aluminum Wheels - ST-Line",
+            "225/60R18 100H All Season (A/S) BSW Tires",
+            "Adaptive Cruise Control",
+            "Black Roof-Rack Rails",
+            "Mini Spare Wheel - 17\" Mini Steel",
+            "Power Liftgate",
+            "Privacy Glass \u2013 Second Row Side and Liftgate",
+            "Rear Parking Sensor",
+            "Space Silver Metallic",
+            "Tire Inflator and Sealant Kit"
+          ],
+          "interior": [
+            "8-Way Power Driver Seat",
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Ebony with Red Stitching",
+            "Evasive Steering Assist",
+            "Floor Liners \u2013 Front and Rear (with Carpet Mats)",
+            "Floor Mats \u2013 Carpeted Front and Rear",
+            "Lane Centering Assist",
+            "Partial Vinyl and Cloth Seats"
+          ],
+          "functional": [
+            "1.5L EcoBoost\u00ae with Auto Start-Stop Technology",
+            "13.2\" LCD Capacitive Touchscreen with Swipe Capability",
+            "8-Speed Automatic Transmission",
+            "Connected Navigation with 1 Year of Connectivity",
+            "Front-Wheel Drive",
+            "Gas",
+            "SYNC\u00ae 4",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L*"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nHybrid Component Warranty: 8 years / 100,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMCU0MN5SUB14686"
+      }
+    },
+    "broncosport": {},
+    "bronco": {
+      "2024 Bronco\u00ae Black Diamond\u2122": {
+        "vehicle_name": "2024 Bronco\u00ae Black Diamond\u2122",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Bronco",
+          "trim": "Black Diamond",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Bronco/2024/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~ABEGU.~AC--K.~B5VBC.~BPLBB.~CA%23WL.~D2YCH.~D3KFS.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4GL.~SE%23HH.~TR-ET.~YZCAM]/INT/2/vehicle.png"
+        ],
+        "price": "$48,720.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "300 hp @ 5,700 rpm (Premium Fuel)",
+          "epa_range": "18.0 City/18.0 Hwy",
+          "torque": "325 lb.-ft. @ 3,400 rpm (Premium Fuel)",
+          "exterior_color": "Velocity Blue Metallic",
+          "interior_color": "Black Onyx",
+          "wheel_type": "17\u201d Black High Gloss-Painted Aluminum Wheels",
+          "drive": "4x4"
+        },
+        "features": {
+          "exterior": [
+            "Base LED Headlamps",
+            "Full Vehicle Steel Bash Plates",
+            "Rear-Window Defroster and Washer",
+            "Rock Rails"
+          ],
+          "interior": [
+            "Auxiliary Switches",
+            "Dual Smart Charging USB Ports",
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Front Row Heated Seats",
+            "Hard Top Sound Deadening Headliner",
+            "Power Outlet \u2013 Back Side of Center Floor Console",
+            "Remote Start System",
+            "Storage Bag \u2013 Front Row Top Panels"
+          ],
+          "functional": [
+            "12\u201d LCD Capacitive Touchscreen with Swipe Capability",
+            "4x4 with Part Time Selectable Engagement",
+            "AM/FM Audio with Seven (7) Speakers, including Subwoofer",
+            "Dual Smart Charging USB Ports",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMDE1BH7RLB45779"
+      },
+      "2024 Bronco\u00ae Wildtrak\u2122": {
+        "vehicle_name": "2024 Bronco\u00ae Wildtrak\u2122",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Bronco",
+          "trim": "Wildtrak",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Bronco/2024/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/INT/2/vehicle.png"
+        ],
+        "price": "$60,765.36",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "330 hp @ 5,250 rpm (Premium Fuel)",
+          "epa_range": "17.0 City/17.0 Hwy",
+          "torque": "415 lb.-ft. @ 3,100 rpm (Premium Fuel)",
+          "exterior_color": "Velocity Blue Metallic",
+          "interior_color": "Black Onyx",
+          "wheel_type": "17\u201d Black High Gloss-Painted Aluminum Wheels with Black Beauty Ring Beadlock Capable",
+          "drive": "4x4"
+        },
+        "features": {
+          "exterior": [
+            "360-Degree Camera",
+            "HOSS 3.0 with FOX\u2122 Internal Bypass Dampers",
+            "Headlamps \u2013 LED with LED Signature Lighting",
+            "Rear-Window Defroster and Washer",
+            "Steel Bash Plates under front section of vehicle"
+          ],
+          "interior": [
+            "Adaptive Cruise Control",
+            "Auxiliary Switches",
+            "Dual Smart Charging USB Ports",
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Front Row Heated Seats",
+            "Heated Steering Wheel",
+            "Power Outlet \u2013 Back Side of Center Floor Console",
+            "Remote Start System",
+            "Storage Bags \u2013 Door",
+            "Wireless Charging Pad"
+          ],
+          "functional": [
+            "12\u201d LCD Capacitive Touchscreen with Swipe Capability",
+            "Dual Smart Charging USB Ports",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM\u00ae with 360L"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMEE2BP7RLA71331"
+      },
+      "2025 Bronco\u00ae Base": {
+        "vehicle_name": "2025 Bronco\u00ae Base",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Bronco\u00ae",
+          "trim": "Base",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Bronco/2025/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~3JL00.~ABEBL.~CA%23WG.~D2XCA.~D3JDT.~DR--E.~EN-N3.~PNYW3.~SE%23HC.~TR-ET.~YZBME]/INT/2/vehicle.png"
+        ],
+        "price": "$40,542.78",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "300 hp @ 5,700 rpm (Premium Fuel)",
+          "epa_range": "19.0 City/21.0 Hwy",
+          "torque": "325 lb.-ft. @ 3,400 rpm (Premium Fuel)",
+          "exterior_color": "Oxford White",
+          "interior_color": "Black Onyx",
+          "wheel_type": "16\" Bright Polished Silver-Painted Steel Wheels",
+          "drive": "4x4"
+        },
+        "features": {
+          "exterior": [
+            "Rear-Window Defroster and Washer"
+          ],
+          "interior": [
+            "Hard Top Sound Deadening Headliner",
+            "Storage Bags \u2013 Front Row Top Panels and Door"
+          ],
+          "functional": [
+            "3.73 Axle",
+            "AM/FM Audio with Seven (7) Speakers, including Subwoofer",
+            "Open Rear Differential",
+            "SYNC\u00ae 4",
+            "Seven (7) Speakers, including Subwoofer"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMDE6AH2SLA60708"
+      },
+      "2025 Bronco\u00ae Badlands\u00ae": {
+        "vehicle_name": "2025 Bronco\u00ae Badlands\u00ae",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Bronco",
+          "trim": "Badlands",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Bronco/2025/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~11L00.~AAQAE.~ABEFV.~AC--K.~BPLBB.~CA%23WG.~D2YDF.~D3KEX.~DR--E.~EN-N3.~FMLAT.~GAMAB.~PNEAM.~SE%23HJ.~TR-ET.~YZCAP]/INT/2/vehicle.png"
+        ],
+        "price": "$52,276.30",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "300 hp @ 5,700 rpm (Premium Fuel)",
+          "epa_range": "17.0 City/17.0 Hwy",
+          "torque": "325 lb.-ft. @ 3,400 rpm (Premium Fuel)",
+          "exterior_color": "Ruby Red Metallic Tinted Clearcoat",
+          "interior_color": "Black Onyx",
+          "wheel_type": "17\u201d Machined Carbonized Gray-Painted Aluminum Wheels",
+          "drive": "4x4"
+        },
+        "features": {
+          "exterior": [
+            "Full Vehicle Steel Bash Plates",
+            "Rear-Window Defroster and Washer",
+            "Rock Rails"
+          ],
+          "interior": [
+            "Auxiliary Switches",
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Hard Top Sound Deadening Headliner"
+          ],
+          "functional": [
+            "4.46 Axle",
+            "AM/FM Audio with Seven (7) Speakers, including Subwoofer",
+            "Auto-Dimming Rearview Mirror",
+            "Connected Navigation",
+            "Front Row Heated Seats",
+            "Power Outlet \u2013 Back Side of Center Floor Console",
+            "Rear Locking Differential",
+            "Remote Start System \u2013 Key Fob Activated",
+            "SYNC\u00ae 4",
+            "Seven (7) Speakers, including Subwoofer"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMDE9AH2SLA60757"
+      },
+      "2025 Bronco\u00ae Outer Banks\u00ae": {
+        "vehicle_name": "2025 Bronco\u00ae Outer Banks\u00ae",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Bronco",
+          "trim": "Outer Banks\u00ae",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Bronco/2025/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~12S00.~AACT5.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2YDX.~D3KHQ.~DR--E.~EN-WQ.~FMLAT.~PN4KJ.~SE%23HE.~TR-ET.~YZCEG]/INT/2/vehicle.png"
+        ],
+        "price": "$59,106.62",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "330 hp @ 5,250 rpm (Premium Fuel)",
+          "epa_range": "17.0 City/17.0 Hwy",
+          "torque": "415 lb.-ft. @ 3,100 rpm (Premium Fuel)",
+          "exterior_color": "Azure Gray Metallic Tri-Coat",
+          "interior_color": "Black Onyx",
+          "wheel_type": "17\u201d Black High Gloss-Painted Aluminum with Warm Alloy Beauty Ring Beadlock Capable Wheels",
+          "drive": "4x4"
+        },
+        "features": {
+          "exterior": [
+            "Rear-Window Defroster and Washer",
+            "Side Step"
+          ],
+          "interior": [
+            "Dual-Zone Electronic Automatic Temperature Control",
+            "Hard Top Sound Deadening Headliner",
+            "Storage Bags \u2013 Front Row Top Panels and Door"
+          ],
+          "functional": [
+            "4.7 Axle",
+            "AM/FM Audio with Seven (7) Speakers, including Subwoofer",
+            "Auto-Dimming Rearview Mirror",
+            "Connected Navigation",
+            "Front Row Heated Seats",
+            "Power Outlet \u2013 Back Side of Center Floor Console",
+            "Rear Locking Differential",
+            "Remote Start System \u2013 Key Fob Activated",
+            "SYNC\u00ae 4",
+            "Seven (7) Speakers, including Subwoofer"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMEE8BP2SLA81788"
+      }
+    },
+    "edge": {},
+    "explorer": {
+      "2025 Explorer\u00ae Active": {
+        "vehicle_name": "2025 Explorer\u00ae Active",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Explorer",
+          "trim": "Active",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Explorer/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000WH.~4H800.~BYBCH.~D2UDW.~EN-N3.~PN4HR.~YZBBA]/INT/2/vehicle.png"
+        ],
+        "price": "$39,951.99",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "300 hp @ 5,550 rpm",
+          "epa_range": "20.0 City/29.0 Hwy",
+          "torque": "310 lb.-ft. @ 3,500 rpm",
+          "exterior_color": "Star White Metallic Tri-Coat",
+          "interior_color": "Dark Space Gray",
+          "wheel_type": "18\" Sparkle Silver-painted Aluminum Wheels",
+          "drive": "RWD"
+        },
+        "features": {
+          "exterior": [
+            "18\" Sparkle Silver-painted Aluminum Wheels",
+            "BLIS\u00ae (Blind Spot Information System) with Cross-Traffic Alert, and Trailer Coverage",
+            "Brakes \u2013 Four-Wheel Disc Brakes with Anti-Lock Brake System",
+            "P255/65R18 All-Season (A/S) BSW Tires",
+            "Star White Metallic Tri-Coat"
+          ],
+          "interior": [
+            "10-way Power Driver\u2019s",
+            "Dark Space Gray",
+            "First Row Heated Seats",
+            "Seats \u2013 Second Row Captain\u2019s Chairs with E-Z Entry and Armrest",
+            "Unique Cloth Seat"
+          ],
+          "functional": [
+            "10-Speed Automatic Transmission",
+            "2.3L EcoBoost\u00ae I-4 Engine with Auto Start-Stop Technology",
+            "3.58 Non-Limited-Slip Rear Axle",
+            "Audio - FM Stereo, MP3 Capable, 6 Speakers, SiriusXM\u00ae",
+            "Ford Digital Experience",
+            "RWD",
+            "Six (6) Speakers"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMUK7DH9SGB85112"
+      },
+      "2025 Explorer\u00ae ST-Line": {
+        "vehicle_name": "2025 Explorer\u00ae ST-Line",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Explorer",
+          "trim": "ST-Line",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Explorer/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~4HE00.~ABFAD.~BYBCH.~D2HA2.~EN-N3.~J5XAC.~PN4JA.~YZBCA]/INT/2/vehicle.png"
+        ],
+        "price": "$46,531.99",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "300 hp @ 5,550 rpm",
+          "epa_range": "20.0 City/29.0 Hwy",
+          "torque": "310 lb.-ft. @ 3,500 rpm",
+          "exterior_color": "Carbonized Gray Metallic",
+          "interior_color": "Onyx",
+          "wheel_type": "21\u201d Magnetite-Painted Aluminum Wheels",
+          "drive": "RWD"
+        },
+        "features": {
+          "exterior": [
+            "21\u201d Magnetite-Painted Aluminum Wheels",
+            "BLIS\u00ae (Blind Spot Information System) with Cross-Traffic Alert, and Trailer Coverage",
+            "Carbonized Gray Metallic",
+            "P275/45R21 All-Season (A/S) BSW Tires",
+            "Performance Brakes",
+            "Rain-Sensing Wipers",
+            "Remote Start System",
+            "Unique Blackout Treatment on Headlamps and Taillamps",
+            "Universal Garage Door Opener"
+          ],
+          "interior": [
+            "10-way Power Driver\u2019s",
+            "8-Way Power Passenger Seat",
+            "Ambient Lighting",
+            "Driver\u2019s Seat \u2013 Memory",
+            "First Row Heated Seats",
+            "Heated Steering Wheel",
+            "Onyx",
+            "Rear Auxiliary Controls",
+            "Seats \u2013 Second Row Captain\u2019s Chairs with E-Z Entry and Armrest",
+            "Second Row Heated Seats",
+            "SecuriCode\u00ae Keyless Entry Keypad",
+            "Unique Cloth and Red Stitching"
+          ],
+          "functional": [
+            "10-Speed Automatic Transmission",
+            "110V/150W AC Power Outlet",
+            "2.3L EcoBoost\u00ae I-4 Engine with Auto Start-Stop Technology",
+            "3.58 Non-Limited-Slip Rear Axle",
+            "Audio - FM Stereo, MP3 Capable, 6 Speakers, SiriusXM\u00ae",
+            "B&O\u00ae Sound System by Bang & Olufsen\u00ae, 10 Speakers including Subwoofer",
+            "Ford Digital Experience",
+            "RWD",
+            "Wireless Charging Pad"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMUK7KH9SGC04700"
+      },
+      "2025 Explorer\u00ae ST": {
+        "vehicle_name": "2025 Explorer\u00ae ST",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Explorer",
+          "trim": "ST",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Explorer/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000VW.~12A00.~BYBCH.~D2HA2.~EN-YX.~J5XAC.~PN4JA.~YZBB8]/INT/2/vehicle.png"
+        ],
+        "price": "$53,275.41",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "400 hp @ 5,550 rpm",
+          "epa_range": "18.0 City /25.0 Hwy",
+          "torque": "415 lb.-ft. @ 3,500 rpm",
+          "exterior_color": "Carbonized Gray Metallic",
+          "interior_color": "Onyx",
+          "wheel_type": "21\u201d Magnetite-Painted Aluminum Wheels",
+          "drive": "RWD"
+        },
+        "features": {
+          "exterior": [
+            "21\u201d Magnetite-Painted Aluminum Wheels",
+            "BLIS\u00ae (Blind Spot Information System) with Cross-Traffic Alert, and Trailer Coverage",
+            "Carbonized Gray Metallic",
+            "P275/45R21 All-Season (A/S) BSW Tires",
+            "Performance Brakes",
+            "Rain-Sensing Wipers",
+            "Remote Start System",
+            "Unique Blackout Treatment on Headlamps and Taillamps",
+            "Universal Garage Door Opener"
+          ],
+          "interior": [
+            "10-way Power Driver\u2019s",
+            "8-Way Power Passenger Seat",
+            "Ambient Lighting",
+            "Driver\u2019s Seat \u2013 Memory",
+            "Front Heated and Ventilated",
+            "Heated Steering Wheel",
+            "Miko\u00ae Inserts with Accent Stitching and ST Logo",
+            "Onyx",
+            "Rear Auxiliary Controls",
+            "Seats \u2013 Second Row Captain\u2019s Chairs with E-Z Entry and Armrest",
+            "Second Row Heated Seats",
+            "SecuriCode\u00ae Keyless Entry Keypad",
+            "Third Row PowerFold\u00ae"
+          ],
+          "functional": [
+            "10-Speed Automatic Transmission",
+            "110V/150W AC Power Outlet",
+            "3.0L EcoBoost\u00ae V6 Engine with Auto Start-Stop Technology",
+            "3.58 Non-Limited-Slip Rear Axle",
+            "Audio - FM Stereo, MP3 Capable, 6 Speakers, SiriusXM\u00ae",
+            "B&O\u00ae Sound System by Bang & Olufsen\u00ae, 10 Speakers including Subwoofer",
+            "Ford Digital Experience",
+            "RWD",
+            "Wireless Charging Pad"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMWK7GC5SGC15800"
+      },
+      "2025 Explorer\u00ae Platinum": {
+        "vehicle_name": "2025 Explorer\u00ae Platinum",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Explorer",
+          "trim": "Platinum",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Explorer/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Explorer/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExplorer%7C2025%7C1%7C1.%7C~000GM.~4HD00.~BYBCH.~CHAAC.~D2HAZ.~DR--F.~EN-YX.~J5XAC.~PN4HR.~YZDAB]/INT/2/vehicle.png"
+        ],
+        "price": "$58,002.41",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "400 hp @ 5,550 rpm",
+          "epa_range": "18.0 City /25.0 Hwy",
+          "torque": "415 lb.-ft. @ 3,500 rpm",
+          "exterior_color": "Star White Metallic Tri-Coat",
+          "interior_color": "Salt Crystal Gray",
+          "wheel_type": "21\u201d Dark Alloy painted Machined Aluminum Wheels",
+          "drive": "4WD"
+        },
+        "features": {
+          "exterior": [
+            "21\u201d Dark Alloy painted Machined Aluminum Wheels",
+            "Adaptive Headlamps",
+            "BLIS\u00ae (Blind Spot Information System) with Cross-Traffic Alert, and Trailer Coverage",
+            "Brakes \u2013 Four-Wheel Disc Brakes with Anti-Lock Brake System",
+            "P275/45R21 All-Season (A/S) BSW Tires",
+            "Panoramic Vista Roof\u00ae with Power Shade",
+            "Rain-Sensing Wipers",
+            "Remote Start System",
+            "Star White Metallic Tri-Coat",
+            "Universal Garage Door Opener"
+          ],
+          "interior": [
+            "Ambient Lighting",
+            "Driver\u2019s Seat \u2013 Memory",
+            "Front Heated and Ventilated",
+            "Heated Steering Wheel",
+            "Leather Seating Surfaces with Micro-Perforated Inserts",
+            "Multicontour Seats with Active Motion",
+            "Rear Auxiliary Controls",
+            "Salt Crystal Gray",
+            "Seats \u2013 Second Row Captain\u2019s Chairs with E-Z Entry and Armrest",
+            "Second Row Heated Seats",
+            "SecuriCode\u00ae Keyless Entry Keypad",
+            "Steering Wheel \u2013 Leather-Wrapped",
+            "Third Row PowerFold\u00ae"
+          ],
+          "functional": [
+            "10-Speed Automatic Transmission",
+            "110V/150W AC Power Outlet",
+            "3.0L EcoBoost\u00ae V6 Engine with Auto Start-Stop Technology",
+            "3.31 Non-Limited-Slip Rear Axle",
+            "4WD",
+            "Audio - FM Stereo, MP3 Capable, 6 Speakers, SiriusXM\u00ae",
+            "Audio-B&O\u00ae Sound System by Bang & Olufsen\u00ae, 980 Watt, 14 Speakers including Subwoofer",
+            "Ford Digital Experience",
+            "Wireless Charging Pad"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FMWK8HC4SGB94913"
+      }
+    },
+    "expedition": {
+      "2025 Expedition\u00ae Platinum": {
+        "vehicle_name": "2025 Expedition\u00ae Platinum",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Expedition\u00ae",
+          "trim": "Platinum",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Expedition/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000KF.~3EH00.~AAAAW.~BY7AD.~BYBBL.~CA%23WD.~D2HCA.~DR--E.~J5TAB.~PN4GM.~YZDAB]/INT/2/vehicle.png"
+        ],
+        "price": "$80,525.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "400hp @ 5200rpm",
+          "epa_range": "15.0 City/22.0 Hwy",
+          "torque": "480 lb.-ft. @ 3300 rpm",
+          "exterior_color": "Agate Black Metallic",
+          "interior_color": "Salt Crystal Gray",
+          "wheel_type": "22\u201d x 9.0\u201d Ebony Bright Machined Face Aluminum Wheels",
+          "drive": "4X4"
+        },
+        "features": {
+          "exterior": [
+            "360-Degree Zone Lighting",
+            "Active Air Dam \u2013 Front",
+            "Black Bezel with Satin Trim Applique - Headlamps",
+            "Ford Split Gate",
+            "Non-Limited-Slip Rear Axle",
+            "Privacy Glass \u2013 Second Row, Third Row and Liftgate",
+            "Rain-Sensing Wipers",
+            "Rear Parking Sensors",
+            "Roof Rails \u2013 Chrome w/ Black End Caps",
+            "Universal Garage Door Opener"
+          ],
+          "interior": [
+            "110V/150W AC Power Outlet",
+            "26MM Engine Radiator",
+            "4-Door Intelligent Access",
+            "All Rows Safety Canopy\u00ae Side-Curtain with Rollover Sensor",
+            "Ambient Lighting",
+            "Flex Powered Console",
+            "Heated Second Row Seats",
+            "Heated Steering Wheel",
+            "Power Panoramic Vista Roof\u00ae With Power Shade",
+            "Power Tilt/Telescoping Steering Column with Memory",
+            "Power-Adjustable Pedals with Memory",
+            "Reverse Brake Assist",
+            "Salt Crystal Gray",
+            "Seats, Third Row \u2013 Power-Folding Head Restraints",
+            "SecuriCode\u2122 Keyless Entry Keypad",
+            "Tri-Zone Electronic Automatic Temperature Control",
+            "Wireless Charging Pad"
+          ],
+          "functional": [
+            "Ford Digital Experience",
+            "HD Radio",
+            "Heavy-Duty Trailer Tow"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles",
+        "vin": "1FMJU1M85SEA23032"
+      },
+      "2025 Expedition\u00ae Tremor\u00ae": {
+        "vehicle_name": "2025 Expedition\u00ae Tremor\u00ae",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Expedition",
+          "trim": "Tremor",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Expedition/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000SH.~3EH00.~AAAD8.~BAYAC.~BY7AD.~BYBBL.~CA%23WD.~D2UCL.~DR--E.~F2AAB.~PN4HR.~YZCCB]/INT/2/vehicle.png"
+        ],
+        "price": "$88,550.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "440hp @5400rpm",
+          "epa_range": "15.0 City/22.0 Hwy",
+          "torque": "510 lb.-ft. @ 3300 rpm",
+          "exterior_color": "Star White Metallic Tri-Coat",
+          "interior_color": "Black Onyx/Electric Spice",
+          "wheel_type": "18\u201d x 8.5\u201d Dark Carbonized Gray Painted Aluminum Wheel w/ Electric Spice Pocket",
+          "drive": "4X4"
+        },
+        "features": {
+          "exterior": [
+            "360-Degree Zone Lighting",
+            "Black Bezel with Ebony Trim Applique - Headlamps",
+            "Electronic Locking Differential Axle",
+            "Ford Split Gate",
+            "Front License Plate Bracket",
+            "High Flow Exhaust System",
+            "Phone as a Key",
+            "Privacy Glass \u2013 Second Row, Third Row and Liftgate",
+            "Rain-Sensing Wipers",
+            "Rear Parking Sensors",
+            "Roof-Rail Crossbars, Black",
+            "Universal Garage Door Opener"
+          ],
+          "interior": [
+            "110V/150W AC Power Outlet",
+            "4-Door Intelligent Access",
+            "All Rows Safety Canopy\u00ae Side-Curtain with Rollover Sensor",
+            "Ambient Lighting",
+            "Black Onyx/Electric Spice",
+            "Flex Powered Console",
+            "Floor Liners, Front And Second Rows (Without Carpet Mats)",
+            "Heated Second Row Seats",
+            "Heated Steering Wheel",
+            "Power Panoramic Vista Roof\u00ae With Power Shade",
+            "Power Tilt/Telescoping Steering Column with Memory",
+            "Power-Adjustable Pedals with Memory",
+            "Reverse Brake Assist",
+            "Seats, Third Row \u2013 Power-Folding Head Restraints",
+            "SecuriCode\u2122 Keyless Entry Keypad",
+            "Tri-Zone Electronic Automatic Temperature Control",
+            "Wireless Charging Pad"
+          ],
+          "functional": [
+            "Electronic Locking Differential Axle",
+            "Ford Digital Experience",
+            "HD Radio",
+            "Heavy-Duty Trailer Tow"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles",
+        "vin": "1FMJU1RG4SEA10420"
+      },
+      "2025 Expedition\u00ae Active": {
+        "vehicle_name": "2025 Expedition\u00ae Active",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Expedition",
+          "trim": "Active",
+          "vehicle_type": "SUV"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Expedition/2025/HD-TILE[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Expedition/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CExpedition%7C2025%7C1%7C1.%7C~000E8.~3ES00.~BAYAB.~BYBBL.~CA%23WD.~D2FCQ.~DR--B.~PN4LH.~YZBMG]/INT/2/vehicle.png"
+        ],
+        "price": "$71,635.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "400hp @ 5200rpm",
+          "epa_range": "16.0 City/24.0 Hwy",
+          "torque": "480 lb.-ft. @ 3300 rpm",
+          "exterior_color": "Glacier Gray Metallic Tri-Coat",
+          "interior_color": "Dark Gray",
+          "wheel_type": "20\u201d x 8.5\u201d Carbonized Gray Bright Machined Aluminum Wheels",
+          "drive": "4X2"
+        },
+        "features": {
+          "exterior": [
+            "360-Degree Zone Lighting",
+            "Active Air Dam \u2013 Front",
+            "Black Bezel with Ebony Trim Applique - Headlamps",
+            "Ford Split Gate",
+            "Non-Limited-Slip Rear Axle",
+            "Privacy Glass \u2013 Second Row, Third Row and Liftgate",
+            "Rain-Sensing Wipers",
+            "Rear Parking Sensors",
+            "Roof-Rail Crossbars, Black",
+            "Universal Garage Door Opener"
+          ],
+          "interior": [
+            "110V/150W AC Power Outlet",
+            "4-Door Intelligent Access",
+            "All Rows Safety Canopy\u00ae Side-Curtain with Rollover Sensor",
+            "Dark Gray",
+            "Flex Powered Console",
+            "Floor Liners, Front and Second Rows (with Carpet Mats)",
+            "Heated Steering Wheel",
+            "Power Panoramic Vista Roof\u00ae With Power Shade",
+            "Power Tilt/Telescoping Steering Column with Memory",
+            "Reverse Brake Assist",
+            "Seats, Front Row \u2013 Heated",
+            "Seats, Third Row \u2013 Power-Folding Head Restraints",
+            "SecuriCode\u2122 Keyless Entry Keypad",
+            "Tri-Zone Electronic Automatic Temperature Control",
+            "Wireless Charging Pad"
+          ],
+          "functional": [
+            "3.31 Rear Axle Ratio",
+            "Ford Digital Experience",
+            "SiriusXM\u00ae with 360L",
+            "Six (6) Speakers"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles",
+        "vin": "1FMJU1H80SEA07671"
+      }
+    },
+    "maverick": {
+      "2024 Maverick\u00ae LARIAT": {
+        "vehicle_name": "2024 Maverick\u00ae LARIAT",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Maverick",
+          "trim": "LARIAT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Maverick/2024/HD-TILE[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000TN.~59600.~A9SAG.~AACAS.~AAMAP.~ACSAB.~BAYAC.~C1CAQ.~C2TAD.~C3AAA.~D17AD.~D2YC1.~DBCAB.~DR--E.~EN-R9.~PN4HM.~YZBB5]/INT/2/vehicle.png"
+        ],
+        "price": "$36,905.72",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "250 SAE net @ 5,500 rpm",
+          "epa_range": "23.0 City/29.0 Hwy",
+          "torque": "277 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Atlas Blue Metallic",
+          "interior_color": "Desert Brown",
+          "wheel_type": "17\" Unique Aluminum Wheels",
+          "drive": "AWD"
+        },
+        "features": {
+          "exterior": [
+            "121\" Wheelbase",
+            "17\" Unique Aluminum Wheels",
+            "225/65 R17 A/T Tires",
+            "Bed Tie Down Locking Rails w/ 2 Locking Brackets",
+            "Bedliner - Spray-in",
+            "FX4 Off-Road Box Decal",
+            "Full Size Spare Tire",
+            "Trailer Hitch Receiver w/ 7-pin Connector",
+            "Tremor Decal Delete"
+          ],
+          "interior": [
+            "400W Inverter (Cab + Bed Incl Cubby Cover) w/USB Console Rear",
+            "8-Way Power Driver and 6-way Manual Passenger Seats",
+            "ActiveX Trimmed Bucket Front-Seats",
+            "Desert Brown",
+            "Floor Liners, All-Weather Tray Style, Set",
+            "Rear Under seat Bins",
+            "Remote Start System"
+          ],
+          "functional": [
+            "2.0L I-4 EcoBoost Engine",
+            "8-Speed Automatic Transmission",
+            "AWD",
+            "B&O Sound System with 8 Speakers including Subwoofer"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "3FTTW8S93RRB35329"
+      },
+      "2024 Maverick\u00ae XLT": {
+        "vehicle_name": "2024 Maverick\u00ae XLT",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Maverick\u00ae",
+          "trim": "XLT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Maverick/2024/HD-TILE[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2024%7C1%7C1.%7C~000HN.~57700.~A9SAG.~AACAS.~BAYAB.~C1CAQ.~C3AAA.~CHAAL.~D17AD.~D2YC1.~DR--E.~EN-R9.~PN4KJ.~YZBCA]/INT/2/vehicle.png"
+        ],
+        "price": "$32,754.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "250 SAE net @ 5,500 rpm",
+          "epa_range": "23.0 City/29.0 Hwy",
+          "torque": "277 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Azure Gray Metallic Tri-Coat",
+          "interior_color": "Navy Pier",
+          "wheel_type": "17\" Unique Aluminum Wheels",
+          "drive": "AWD"
+        },
+        "features": {
+          "exterior": [
+            "121\" Wheelbase",
+            "17\" Unique Aluminum Wheels",
+            "225/65 R17 A/T Tires",
+            "Bedliner - Spray-in",
+            "FX4 Off-Road Box Decal",
+            "Full Size Spare Tire",
+            "Trailer Hitch Receiver w/ 7-pin Connector",
+            "Tremor Decal Delete"
+          ],
+          "interior": [
+            "Floor Liners, All-Weather Tray Style, Set (incl. Carpeted Floor Mats)",
+            "Navy Pier",
+            "Power Moonroof",
+            "Rear Under seat Bins",
+            "Unique Cloth Bucket Front-Seats"
+          ],
+          "functional": [
+            "2.0L I-4 EcoBoost Engine",
+            "8-Speed Automatic Transmission",
+            "AM/FM Stereo w/ 6 Speakers",
+            "AWD"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "3FTTW8J96RRB79763"
+      },
+      "2025 Maverick\u00ae XL": {
+        "vehicle_name": "2025 Maverick\u00ae XL",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Maverick\u00ae",
+          "trim": "XL",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Maverick/2025/HD-TILE[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000VW.~59700.~BAYAB.~C1NAB.~CJDAA.~D2YBZ.~DR--A.~EN-S3.~PNYW3.~VS-CB.~YZBAB]/INT/2/vehicle.png"
+        ],
+        "price": "$28,274.15",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "162 @ 5,600",
+          "epa_range": "42.0 City/35.0 Hwy",
+          "torque": "155 @ 4,000",
+          "exterior_color": "Oxford White",
+          "interior_color": "Black Onyx",
+          "wheel_type": "17\u201d Steel Wheels with Sparkle Silver Painted Covers",
+          "drive": "FWD"
+        },
+        "features": {
+          "exterior": [
+            "121\" Wheelbase",
+            "17\u201d Steel Wheels with Sparkle Silver Painted Covers",
+            "225/65R 17\u201d A/S BSW",
+            "Black Painted Roof Delete",
+            "Mini Spare Tire",
+            "Oxford White"
+          ],
+          "interior": [
+            "Black Onyx",
+            "Cloth Bucket Front-Seats",
+            "Cruise Control",
+            "Floor Liners, Front and Rear (with Front Carpet Floor Mats)",
+            "Rear Under seat Bins"
+          ],
+          "functional": [
+            "2K Trailer Hitch Receiver with 4-Pin Connector",
+            "AM/FM Stereo with Six (6) Speakers",
+            "FWD",
+            "Pre-Collision Assist\u00ae with Automatic Emergency Braking",
+            "Rear View Camera",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nHybrid Unique -Components If Equipped: 8YR/100,000\nPowertrain: 5 years / 60,000 miles\nRoadside Assist: 5 years / 60,000",
+        "vin": "3FTTW8A3XSRA95883"
+      },
+      "2025 Maverick\u00ae XLT": {
+        "vehicle_name": "2025 Maverick\u00ae XLT",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Maverick",
+          "trim": "XLT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Maverick/2025/HD-TILE[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Maverick/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMaverick%7C2025%7C1%7C1.%7C~000HN.~57700.~C1CAQ.~C1NAF.~CJDAA.~D2YBT.~DBCBB.~DR--E.~EN-E3.~PN4BZ.~VS-CC.~YZCDX]/INT/2/vehicle.png"
+        ],
+        "price": "$33,039.78",
+        "specifications": {
+          "horsepower": "Targeted 250 @ 5,500",
+          "epa_range": "22.0 City/30.0 Hwy",
+          "torque": "Targeted 275 @ 3,000",
+          "exterior_color": "Desert Sand",
+          "interior_color": "Navy Pier",
+          "wheel_type": "17\u201d Carbonized Gray painted Aluminum Wheels",
+          "drive": "AWD"
+        },
+        "features": {
+          "interior": [
+            "Cruise Control",
+            "Navy Pier",
+            "Rear Under seat Bins",
+            "Unique Cloth Bucket Front-Seats"
+          ],
+          "functional": [
+            "AM/FM Stereo with Six (6) Speakers",
+            "AWD",
+            "Blind Spot Assist",
+            "Pre-Collision Assist\u00ae with Automatic Emergency Braking",
+            "Rear View Camera",
+            "Reverse Sensing System",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "Trailer Hitch (Class III) 2\u201d Receiver with 4-pin and 7-pin Connector"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nHybrid Unique -Components If Equipped: 8YR/100,000\nPowertrain: 5 years / 60,000 miles\nRoadside Assist: 5 years / 60,000",
+        "vin": "3FTTW8JA3SRA93116"
+      }
+    },
+    "ranger": {
+      "2025 Ranger\u00ae XL": {
+        "vehicle_name": "2025 Ranger\u00ae XL",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Ranger",
+          "trim": "XL",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Ranger/2025/HD-TILE[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~3CB00.~C1CAR.~CA%23BC.~D2YCE.~DR--K.~EN-N3.~PNYW3.~SE%23GB.~YZBAB]/INT/2/vehicle.png"
+        ],
+        "price": "$33,861.99",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "270 hp @ 5500 rpm",
+          "epa_range": "21.0 City/26.0 Hwy",
+          "torque": "310 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Oxford White",
+          "interior_color": "Ebony",
+          "wheel_type": "17\u201d Silver Painted Aluminum Wheels",
+          "drive": "4X2"
+        },
+        "features": {
+          "exterior": [
+            "Fog Lamps \u2013 Halogen",
+            "Oxford White",
+            "Rear Window with Fixed Glass"
+          ],
+          "interior": [
+            "Analog Rear View Camera",
+            "Auto Start-Stop Technology",
+            "Black Vinyl Floor Covering",
+            "Cruise Control",
+            "Day/Night Rearview Mirror",
+            "Ebony",
+            "Single Zone Manual Air Conditioning"
+          ],
+          "functional": [
+            "4X2",
+            "AM/FM stereo and Six Speakers",
+            "Remote Keyless-Entry w/Remote Tailgate Lock",
+            "SYNC\u00ae 4A",
+            "SiriusXM\u00ae Satellite Radio"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FTER4BH7SLE22516"
+      },
+      "2025 Ranger\u00ae LARIAT\u00ae": {
+        "vehicle_name": "2025 Ranger\u00ae LARIAT\u00ae",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Ranger",
+          "trim": "LARIAT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Ranger/2025/HD-TILE[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000ZH.~12T00.~AACAS.~AAXAG.~BBGAE.~BMBAG.~BPLAD.~C1CAR.~CA%23BC.~D2UFD.~DR--E.~EGJAD.~EN-N3.~FI4AC.~PN4JA.~SE%23GR.~YZBB5]/INT/2/vehicle.png"
+        ],
+        "price": "$49,017.15",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "270 hp @ 5500 rpm",
+          "epa_range": "21.0 City/26.0 Hwy",
+          "torque": "310 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Carbonized Gray Metallic",
+          "interior_color": "Ebony",
+          "wheel_type": "18\u201d Chrome-Like PVD Wheels",
+          "drive": "Part Time 4X4"
+        },
+        "features": {
+          "exterior": [
+            "Black Running Boards",
+            "Carbonized Gray Metallic",
+            "Integrated Box Side Step",
+            "SecuriCode\u2122 Wireless Keyless Entry Keypad \u2013 Black MIC"
+          ],
+          "interior": [
+            "12\u201d Display In Center Stack",
+            "360-Degree Camera",
+            "8-Way Power Passenger Adjustable Seat including Power Lumbar",
+            "Adaptive Cruise Control and Speed Sign Recognition",
+            "Auto Start-Stop Technology",
+            "Auto-Dimming Rearview Mirror",
+            "Carpet Floor Covering with Carpet Floor Mats",
+            "Dual-Zone Electronic Climate Control",
+            "Ebony",
+            "Leather-Wrapped Steering Wheel And Shifter",
+            "Power-Sliding Rear Window"
+          ],
+          "functional": [
+            "120V/400W In-Cab and In-Bed Power Outlets",
+            "B&O Sound System by Bang & Olufsen\u00ae with HD Radio\u2122 (10 speakers including subwoofer)",
+            "Connected Navigation (Limited Trial)",
+            "Part Time 4X4",
+            "SYNC\u00ae 4A w/ Connected Navigation (1 year Trial)",
+            "SiriusXM\u00ae Satellite Radio"
+          ]
+        },
+        "warranty": "Aluminum Body Panels: 5 years/ Unlimited miles\nBumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nHybrid Component Warranty: 8 years / 100,000 miles\nPaint Adhesion: 5 years/ Unlimited miles\nPowertrain: 5 years / 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FTER4KH3SLE17183"
+      },
+      "2025 Ranger\u00ae XLT": {
+        "vehicle_name": "2025 Ranger\u00ae XLT",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Ranger",
+          "trim": "XLT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Ranger/2025/HD-TILE[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Ranger/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CRanger%7C2025%7C1%7C1.%7C~000LU.~3CB00.~AAXAG.~BAYAB.~BBGAE.~BMBAG.~C1CAR.~CA%23BC.~D2UFD.~DR--K.~EN-N3.~PN4BZ.~SE%23GJ.~YZBCA]/INT/2/vehicle.png"
+        ],
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "270 hp @ 5500 rpm",
+          "epa_range": "21.0 City/26.0 Hwy",
+          "torque": "310 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Desert Sand",
+          "interior_color": "Sandstone",
+          "wheel_type": "18\u201d Chrome-Like PVD Wheels",
+          "drive": "4X2"
+        },
+        "features": {
+          "exterior": [
+            "Desert Sand",
+            "Integrated Box Side Step",
+            "Manual-Sliding Rear Window w/Privacy Glass and Defrost"
+          ],
+          "interior": [
+            "Auto Start-Stop Technology",
+            "Auto-Dimming Rearview Mirror",
+            "Carpet Floor Covering with Carpet Floor Mats",
+            "Cruise Control",
+            "Digital Rear View Camera",
+            "Floor Liner \u2013 Tray Style (Less Carpeted Matching Floor Mats)",
+            "Sandstone",
+            "Single Zone Manual Air Conditioning"
+          ],
+          "functional": [
+            "120V/400W In-Cab and In-Bed Power Outlets",
+            "4X2",
+            "AM/FM stereo and Six Speakers with SiriusXM\u00ae",
+            "Connected Navigation (Limited Trial)",
+            "Remote Keyless-Entry w/Remote Tailgate Lock",
+            "SYNC\u00ae 4A w/ Connected Navigation (1 year Trial)",
+            "SiriusXM\u00ae Satellite Radio"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FTER4GH4SLE22448"
+      }
+    },
+    "f150": {
+      "2025 F-150\u00ae Tremor\u00ae": {
+        "vehicle_name": "2025 F-150\u00ae Tremor\u00ae",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "F-150\u00ae",
+          "trim": "Tremor\u00ae",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-TILE[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A9CBK.~AA5H5.~AAXAD.~AC--G.~ADQAN.~B2GAE.~BLBAF.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~D2UFA.~DR--E.~EN-AV.~F2ABV.~FDDAD.~IEDAB.~PN4HJ.~SE%23JL.~YCMD9.~YZCFB]/INT/2/vehicle.png"
+        ],
+        "price": "$71,272.60",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "15.0 City/20.0 Hwy",
+          "epa_range": "2.0-kW output",
+          "torque": "400 hp @ 6,000 rpm",
+          "exterior_color": "Electronic Ten-Speed Automatic Transmission",
+          "interior_color": "Iconic Silver Metallic",
+          "wheel_type": "Black",
+          "drive": "18\u201d Alloy w/ Dark Matte Finish"
+        },
+        "features": {
+          "exterior": [
+            "145\" Wheelbase",
+            "18\u201d Alloy w/ Dark Matte Finish",
+            "275/70R18 all-terrain (A/T) Tires",
+            "360-Degree Camera",
+            "Box Side Decal - Tremor Logo",
+            "Bumper, Rear \u2013 Black",
+            "Cast-Aluminum Running Boards",
+            "Class IV Trailer Hitch",
+            "Code Orange Tow Hooks",
+            "Dual Exhaust w/ Black Tips",
+            "Extended Range 36 Gallon Fuel Tank",
+            "Four Pickup Box Tie-Down Plates",
+            "Front axle w/ Torsen Differential",
+            "Graphics Delete",
+            "Grille \u2013 Unique Tremor Style Coast to Coast w/ Active Orange Accents",
+            "Iconic Silver Metallic",
+            "LED Box Lighting",
+            "Less Secondary Color",
+            "Modular Front Bumper",
+            "Power-Sliding Rear-Window",
+            "Power-folding Sideview Mirrors, Power Glass with Heat, Turn Signal and Memory",
+            "Pro Access Tailgate",
+            "Rain-Sensing Wipers",
+            "Rear-Window Defroster",
+            "Remote Start System",
+            "Remote Tailgate Release",
+            "Reverse Sensing System",
+            "Scuff Plates \u2013 MIC, Front",
+            "SecuriCode\u00ae Keyless-Entry Keypad, Driver's Side",
+            "Skid Plates (4x4 only)",
+            "Zone Lighting"
+          ],
+          "interior": [
+            "10-way Power Driver Seat and Multi-Adjustable Power Front Passenger Seat",
+            "10-way Power Driver Seat with Power Lumbar",
+            "12\u201d Productivity Screen in Instrument Cluster",
+            "Adaptive Cruise Control",
+            "Ambient Lighting",
+            "Auto-Dimming Rearview Mirror",
+            "Black",
+            "Color-Coordinated Carpet w/Carpeted Floor Mats",
+            "Dual-zone Electronic Automatic Temperature Control",
+            "Heads-Up Display",
+            "Heated and ventilated Seats",
+            "Integrated Trailer Brake Controller",
+            "Interior Work Surfaces",
+            "Leather-Wrapped and Heated Steering Wheel \u2013 Power Tilt and Telescoping with Memory",
+            "Partitioned Lockable Fold-Flat Storage",
+            "Pedals, Power-Adjustable w/Memory",
+            "Pro Trailer Backup Assist\u2122 and Pro Trailer Hitch Assist",
+            "Rear Privacy Glass",
+            "Second-row Heated Seats",
+            "Two-Speed Automatic AWD with Mechanical Locking 4WD",
+            "Unique Tremor Leather-Trimmed bucket seats w/ heated and ventilated, memory driver's seat",
+            "Universal Garage Door Opener",
+            "Wrapped Steering Wheel"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FTFW4L5XSFA72556"
+      },
+      "2025 F-150\u00ae Lariat": {
+        "vehicle_name": "2025 F-150\u00ae Lariat",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "F-150",
+          "trim": "Lariat",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-TILE[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VW.~A5GAB.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-BM.~FDDAD.~PN4HY.~SE%23GR.~YCMEN.~YZCCB]/INT/2/vehicle.png"
+        ],
+        "price": "$64,020.60",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "16.0 City/24.0 Hwy",
+          "epa_range": "2.0-kW output",
+          "torque": "400 hp @ 6,000 rpm",
+          "exterior_color": "Electronic Ten-Speed Automatic Transmission",
+          "interior_color": "Antimatter Blue Metallic",
+          "wheel_type": "Black",
+          "drive": "20\" Chrome-Like PVD Wheels"
+        },
+        "features": {
+          "exterior": [
+            "145\" Wheelbase",
+            "18\u201d\u00a0Spare\u00a0Wheel\u00a0and\u00a0Tire",
+            "20\" Chrome-Like PVD Wheels",
+            "275/60R20 BSW all-terrain tires (A/T)",
+            "360-Degree Camera",
+            "4X4 Decal",
+            "6\u201d Chrome Running Boards",
+            "Antimatter Blue Metallic",
+            "Bumper Rear \u2013 Chrome",
+            "Chrome Bumpers",
+            "Chrome Door and Tailgate handles",
+            "Class IV Trailer Hitch",
+            "Extended Range 36 Gallon Fuel Tank",
+            "Graphics Delete",
+            "Hooks \u2013 Front Tow 4x4, two (2)",
+            "Less Secondary Color",
+            "Power-Sliding Rear-Window",
+            "Power-folding Sideview Mirrors, Power Glass with Heat, Turn Signal and Memory",
+            "Rain-Sensing Wipers",
+            "Rear-Window Defroster",
+            "Remote Start System",
+            "Remote Start System with Remote Tailgate Release",
+            "Reverse Sensing System",
+            "Scuff Plates \u2013 MIC, Front",
+            "SecuriCode\u00ae Keyless-Entry Keypad, Driver's Side",
+            "Zone Lighting"
+          ],
+          "interior": [
+            "10-way Power Driver Seat and Multi-Adjustable Power Front Passenger Seat",
+            "10-way Power Driver Seat with Power Lumbar",
+            "12\u201d Productivity Screen in Instrument Cluster",
+            "ActiveX\u00ae Seating Material 40/console/40 Seats",
+            "Adaptive Cruise Control",
+            "Auto-Dimming Rearview Mirror",
+            "Black",
+            "Color-Coordinated Carpet w/Carpeted Floor Mats",
+            "Dual-zone Electronic Automatic Temperature Control",
+            "Heated and ventilated Seats",
+            "Integrated Trailer Brake Controller",
+            "Leather-Wrapped and Heated Steering Wheel \u2013 Power Tilt and Telescoping with Memory",
+            "Pedals, Power-Adjustable w/Memory",
+            "Pro Trailer Backup Assist\u2122 and Pro Trailer Hitch Assist",
+            "Rear Privacy Glass",
+            "Rear Under-seat Storage",
+            "Two-Speed Automatic 4WD (4x4 only) with Neutral Towing Capability",
+            "Universal Garage Door Opener",
+            "Wrapped Steering Wheel"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FTFW5L85SKD70424"
+      },
+      "2025 F-150\u00ae King Ranch\u00ae": {
+        "vehicle_name": "2025 F-150\u00ae King Ranch\u00ae",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "F-150",
+          "trim": "King Ranch",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-TILE[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000TN.~A5GAB.~A9CBK.~AA5H5.~AC--G.~ADQAN.~B2GAE.~B5EAB.~BLBBT.~BPCAA.~BPIAB.~BSHDF.~BY1AM.~CA%23BC.~CHAA1.~D2FB2.~DR--E.~EN-CN.~FDDAD.~FI4AB.~IEDAB.~PN4HR.~SE%23GT.~YCMDV.~YZDET]/INT/2/vehicle.png"
+        ],
+        "price": "$71,614.51",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "22.0 City/24.0 Hwy",
+          "epa_range": "7.2-kW output",
+          "torque": "430 hp @ 6,000 rpm",
+          "exterior_color": "Hybrid Electronic Ten-Speed Automatic Transmission",
+          "interior_color": "Star White Metallic Tri-Coat",
+          "wheel_type": "Java",
+          "drive": "20\" Chrome-Like PVD Wheels"
+        },
+        "features": {
+          "exterior": [
+            "145\" Wheelbase",
+            "18\u201d\u00a0Spare\u00a0Wheel\u00a0and\u00a0Tire",
+            "20\" Chrome-Like PVD Wheels",
+            "275/60R20 BSW all-terrain tires",
+            "360-Degree Camera",
+            "4X4 Decal",
+            "Bumper, Front and Rear \u2013 Body-color",
+            "Bumper, Front/Rear \u2013 Body-color",
+            "Class IV Trailer Hitch",
+            "Four Pickup Box Tie-Down Plates",
+            "Graphics Delete",
+            "Grille \u2013 Chrome Surround w/ Bronze Accents",
+            "Hooks \u2013 Front Tow 4x4, two (2)",
+            "LED Box Lighting",
+            "Power-Deployable Running Board W/ Black Accent",
+            "Power-Sliding Rear-Window",
+            "Power-folding Sideview Mirrors, Power Glass with Heat, Turn Signal and Memory",
+            "Pro Access Tailgate",
+            "Rain-Sensing Wipers",
+            "Rear-Window Defroster",
+            "Remote Start System",
+            "Remote Tailgate Release",
+            "Retractable Rear Center Step",
+            "Reverse Sensing System",
+            "SecuriCode\u00ae Keyless-Entry Keypad, Driver's Side",
+            "SecuriCode\u00ae Wireless Keyless-Entry Keypad, Driver's Side",
+            "Standard Range 23 Gallon Fuel Tank",
+            "Star White Metallic Tri-Coat",
+            "Two-Tone Paint",
+            "Two-Tone-Marsh Gray",
+            "Unique Metallic Front Scuff Plates",
+            "Wheel Well Liner",
+            "Zone Lighting"
+          ],
+          "interior": [
+            "10-way Power Driver Seat and Multi-Adjustable Power Front Passenger Seat",
+            "10-way Power Driver Seat with Power Lumbar",
+            "12\u201d Productivity Screen in Instrument Cluster",
+            "Adaptive Cruise Control",
+            "Ambient Lighting",
+            "Auto-Dimming Rearview Mirror",
+            "Color-Coordinated Carpet w/Carpeted Floor Mats",
+            "Dual-zone Electronic Automatic Temperature Control",
+            "Heads-Up Display",
+            "Heated and ventilated Seats",
+            "Integrated Trailer Brake Controller",
+            "Interior Work Surfaces",
+            "Java",
+            "King Ranch\u00ae Leather Bucket Seats",
+            "Leather-Wrapped and Heated Steering Wheel \u2013 Power Tilt and Telescoping with Memory",
+            "Multicontour seats with Active Motion\u00ae",
+            "Partitioned Lockable Fold-Flat Storage",
+            "Pedals, Power-Adjustable w/Memory",
+            "Power Tilt/Telescoping Steering Column with Memory",
+            "Pro Trailer Backup Assist\u2122 and Pro Trailer Hitch Assist",
+            "Rear Privacy Glass",
+            "Second-row Heated Seats",
+            "Steering Wheel with King Ranch\u00ae Logo",
+            "Two-Speed Automatic 4WD (4x4 only) with Neutral Towing Capability",
+            "Universal Garage Door Opener"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FTFW6LD0SFA51153"
+      },
+      "2025 F-150\u00ae XL": {
+        "vehicle_name": "2025 F-150\u00ae XL",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "F-150\u00ae",
+          "trim": "XL",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-TILE[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2025%7C1%7C1.%7C~000VV.~A5GAB.~A9CBC.~AA5H1.~BPCAA.~BSHE1.~CA%23BB.~D2YCA.~DR--E.~EN-WQ.~PNYW3.~SE%23GB.~YCMAZ.~YZBME]/INT/2/vehicle.png"
+        ],
+        "price": "$41,841.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "325 hp @ 5,000 rpm",
+          "epa_range": "18.0 City/23.0 Hwy",
+          "torque": "400 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Oxford White",
+          "interior_color": "Medium Dark Slate",
+          "wheel_type": "17\" Silver Steel Wheels",
+          "drive": "4x4"
+        },
+        "features": {
+          "exterior": [
+            "141\" Wheelbase",
+            "17\" Silver Steel Wheels",
+            "265/70R 17 BSW All-Terrain Tires",
+            "4X4 Decal",
+            "Bumper and Fascia, Front \u2013 Black",
+            "Bumper, Rear \u2013 Black",
+            "Class IV Trailer Hitch",
+            "Extended Range 36 Gallon Fuel Tank",
+            "Graphics Delete",
+            "Grille \u2013 Black Coast to Coast",
+            "Hooks \u2013 Front Tow 4x4, two (2)",
+            "Less Secondary Color",
+            "Mirrors, Sideview \u2013 Manual-folding, Power Glass with Heat and Black Skull Caps",
+            "Oxford White",
+            "Rear-window with Fixed Glass and Solar Tint",
+            "Reverse Sensing System",
+            "Scuff Plates \u2013 MIC, Front",
+            "Wipers \u2013 Intermittent speed"
+          ],
+          "interior": [
+            "12\u201d Productivity Screen in Instrument Cluster",
+            "2-Way Manual Driver/Passenger",
+            "4x4 Electronic-Shift-On-the-Fly (ESOF) with Neutral Towing Capability",
+            "Medium Dark Slate",
+            "Rearview Mirror, Day/Night",
+            "Steering Wheel \u2013 Manual Tilt/Telescoping and Manual Locking",
+            "Steering Wheel, Black Urethane \u2013 Manual Tilt/Telescoping and Manual Locking",
+            "Vinyl 40/20/40 Front Seats",
+            "Vinyl Flooring \u2013 Black"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FTMF1LP3SKD16434"
+      },
+      "2024 F-150\u00ae XLT": {
+        "vehicle_name": "2024 F-150\u00ae XLT",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "F-150",
+          "trim": "XLT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-TILE[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/F-150+F-150/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CF-150+F-150%7C2024%7C1%7C1.%7C~000VV.~A5GAB.~A9BAJ.~A9CBK.~AA5H5.~AC--G.~B2GAE.~BLBA8.~BPCAA.~BSHDJ.~BY1AL.~CA%23BC.~D2ULS.~DR--E.~EN-BM.~FDDAD.~PNYW3.~SE%23GJ.~YCMEE.~YZCDX]/INT/2/vehicle.png"
+        ],
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "16.0 City/24.0 Hwy",
+          "epa_range": "2.0-kW output",
+          "torque": "400 hp @ 6,000 rpm",
+          "exterior_color": "Electronic Ten-Speed Automatic Transmission",
+          "interior_color": "Oxford White",
+          "wheel_type": "Medium Dark Slate",
+          "drive": "18\" Chrome-Like PVD Wheels"
+        },
+        "features": {
+          "exterior": [
+            "145\" Wheelbase",
+            "18\" Chrome-Like PVD Wheels",
+            "275 /65R 18 BSW AT Tires",
+            "360-Degree Camera",
+            "4X4 Decal",
+            "6\u201d Chrome Running Boards",
+            "Bumper Rear \u2013 Chrome",
+            "Chrome Bumpers",
+            "Class IV Trailer Hitch",
+            "Extended Range 36 Gallon Fuel Tank",
+            "Grille \u2013 Black Painted Coast to Coast Black Mesh with Chrome Center Bar",
+            "Hooks \u2013 Front Tow 4x4, two (2)",
+            "Less Secondary Color",
+            "Manual-Folding, Power Glass with Heat, Turn Signal and Chrome Skull Caps Sideview Mirrors",
+            "Oxford White",
+            "Power-Sliding Rear-Window",
+            "Rear-Window Defroster",
+            "Remote Start System",
+            "Remote Start System with Remote Tailgate Release",
+            "Reverse Sensing System",
+            "Tonneau Pickup Box Cover \u2013 Retractable",
+            "Wipers \u2013 Intermittent speed"
+          ],
+          "interior": [
+            "10-way Power Driver Seat and Multi-Adjustable Power Front Passenger Seat",
+            "10-way Power Driver Seat w/Power Lumbar",
+            "12\u201d Productivity Screen in Instrument Cluster",
+            "4x4 Electronic-Shift-On-the-Fly (ESOF) with Neutral Towing Capability",
+            "Adaptive Cruise Control",
+            "Auto-Dimming Rearview Mirror",
+            "Cloth 40/Console/40 Front-Seats with Manual Driver/Passenger Lumbar",
+            "Color-Coordinated Carpet w/Carpeted Floor Mats",
+            "Dual-zone Electronic Automatic Temperature Control",
+            "Heated Front Seats",
+            "Integrated Trailer Brake Controller",
+            "Intelligent Access with Push-Button Start",
+            "Medium Dark Slate",
+            "Pro Trailer Backup Assist\u2122 and Pro Trailer Hitch Assist",
+            "Rear Privacy Glass",
+            "Rear Under-seat Storage",
+            "Steering Wheel \u2013 Manual Tilt/Telescoping and Manual Locking",
+            "Wrapped Steering Wheel"
+          ],
+          "functional": [
+            "3.55 Electronic Locking Axle Ratio",
+            "4x4",
+            "AM/FM with Clock and SiriusXM with 360L",
+            "Advanced Driver Assistance Systems",
+            "BLIS with Cross-Traffic Alert",
+            "BlueCruiseE50 Hands-Free Highway Driving Equipped (90 Day Trial)",
+            "Connected Navigation",
+            "F150",
+            "Onboard 400W Outlet",
+            "SYNC\u00ae 4 with Enhanced Voice Recognition",
+            "SiriusXM with 360L",
+            "Trailer Reverse Guidance"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FTFW3L83RFA13668"
+      }
+    },
+    "superduty": {
+      "2025 Super Duty\u00ae F-250 XLT": {
+        "vehicle_name": "2025 Super Duty\u00ae F-250 XLT",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Super Duty\u00ae F-250",
+          "trim": "XLT",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-TILE[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~A7AAC.~AA5AH.~AAAAD.~B2GAE.~BLBA8.~CA%23BC.~D2AAB.~D2UBE.~DR--E.~EN-TR.~FDDAD.~FI4AD.~HUKAC.~PN4GM.~SE%23BD.~YCMAJ]/INT/2/vehicle.png"
+        ],
+        "price": "$70,580.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "1,050 @ 1,600 rpm",
+          "epa_range": "475 hp @ 2,600 rpm",
+          "torque": "TorqShift\u00ae Ten-Speed Automatic with SelectShift\u00ae Automatic Transmission",
+          "exterior_color": "Medium Dark Slate",
+          "interior_color": "18\u201d Sparkle Silver Painted Cast Aluminum Wheels",
+          "wheel_type": "4X4",
+          "drive": "TorqShift\u00ae Ten-Speed Automatic with SelectShift\u00ae Automatic Transmission"
+        },
+        "features": {
+          "exterior": [
+            "160\"",
+            "18\u201d Sparkle Silver Painted Cast Aluminum Wheels",
+            "26.5 Gallon Mid Ship",
+            "6\" Angular Bright Anodized step bar",
+            "Agate Black Metallic",
+            "Chrome Front and Rear Step Bumper",
+            "Daytime Running Lamps",
+            "Four (4) Pickup Box Tie-down Plates",
+            "Front License Plate Bracket",
+            "Grille \u2013 Bright Chrome",
+            "Halogen Fog lamps",
+            "Jack - 3 Ton Mechanical",
+            "LT275/65Rx18E BSW A/S Tires",
+            "Less Secondary Color",
+            "Pre-Collision Assist\u00ae with Automatic Emergency Braking (AEB)",
+            "Privacy Glass",
+            "SecuriCode\u00ae keyless entry keypad",
+            "Spare Tire, Wheel, Carrier and Jack",
+            "Tailgate Step"
+          ],
+          "functional": [
+            "3.31 Non-Limited Slip Axle Ratio",
+            "4X4",
+            "6.7L 4 Valve OHV Power Stroke\u00ae V8 Turbo Diesel B20 Engine",
+            "8\" LCD Capacitive Touchscreen with Swipe Capability",
+            "AM/FM Stereo with MP3 Player",
+            "Cruise Control",
+            "Dual Battery",
+            "FordPass Connect\u00ae 5G Wi-Fi Modem",
+            "SRW",
+            "SYNC\u00ae 4",
+            "TorqShift\u00ae Ten-Speed Automatic with SelectShift\u00ae Automatic Transmission",
+            "Trailer Brake Controller"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FT7W2BT6SEC75748"
+      },
+      "2025 Super Duty\u00ae F-350 XL": {
+        "vehicle_name": "2025 Super Duty\u00ae F-350 XL",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Super Duty\u00ae F-350",
+          "trim": "XL",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-TILE[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/SuperDuty/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CSuperDuty%7C2025%7C1%7C1.%7C~000VV.~AA5AY.~AAAAC.~BBKAJ.~CA%23BC.~D2AAB.~D2UCF.~DR--E.~EN-DA.~FDDAD.~JZJAG.~PNYW5.~SE%23CD.~YCMAZ]/INT/2/vehicle.png"
+        ],
+        "price": "$57,960.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "445 @ 4,000 rpm",
+          "epa_range": "405 hp @ 5,000 rpm",
+          "torque": "TorqShift\u00ae-G Ten-Speed Automatic w/SelectShift\u00ae Automatic Transmission",
+          "exterior_color": "Medium Dark Slate",
+          "interior_color": "18\u201d Argent Painted Steel with Painted Hub Cover/Center Ornament Wheels",
+          "wheel_type": "4X4",
+          "drive": "TorqShift\u00ae-G Ten-Speed Automatic w/SelectShift\u00ae Automatic Transmission"
+        },
+        "features": {
+          "interior": [
+            "Air conditioning \u2013 Single-Zone, Manual",
+            "Automated Emergency Braking (AEB) Removal",
+            "Carpet Delete",
+            "HD Vinyl 40/20/40 Split Bench with Center Armrest, Cupholder and Storage Seats",
+            "Medium Dark Slate",
+            "Upfitter Switches"
+          ],
+          "functional": [
+            "190 Amp Alternator on Gas Engines and 250 Amp Alternator on Diesel Engines",
+            "3.73 Non-Limited Slip Axle Ratio",
+            "4X4",
+            "6.8L 2V DEVCT NA PFI V8 Gas Engine",
+            "8\" LCD Capacitive Touchscreen with Swipe Capability",
+            "AM/FM Stereo with MP3 Player",
+            "Cruise Control",
+            "FordPass Connect\u00ae 5G Wi-Fi Modem",
+            "SRW",
+            "SYNC\u00ae 4",
+            "TorqShift\u00ae-G Ten-Speed Automatic w/SelectShift\u00ae Automatic Transmission",
+            "Trailer Brake Controller"
+          ]
+        },
+        "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nPowertrain: 5 years / 60,000 miles; Diesel: 5 years / 100,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FT8W3BA6SED06392"
+      }
+    },
+    "transitvanwagon": {
+      "2025 Transit\u00ae Passenger Van XL": {
+        "vehicle_name": "2025 Transit\u00ae Passenger Van XL",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Transit\u00ae Passenger Van",
+          "trim": "XL",
+          "vehicle_type": "Van"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-TILE[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Transit%20Commercial/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CTransit%20Commercial%7C2025%7C1%7C1.%7C301A..148.PYZ..88C.89K.LRL.92E.16E.68H.90B.21L.BAF.SRW.64D.RWD.998.57G.58U.BS4.17F.541.WAL.%5D/INT/2/vehicle.png"
+        ],
+        "specifications": {},
+        "features": {
+          "exterior": [
+            "AUXILIARY FUEL PORT",
+            "BODY SIDE MOLDINGS - BLACK",
+            "BUMPERS - CARBON BLACK",
+            "FULL SIZE SPARE TIRE/WHEEL",
+            "WIPERS - RAIN-SENSING"
+          ],
+          "functional": [
+            "AUTO HIGH-BEAM HEADLAMPS",
+            "ELECTRONIC PWR ASST STEER",
+            "FORDPASS CONNECT 4GWI-FI HOTSPOT TELEMATICS MODEM",
+            "FORWARD COLLISION WARNING",
+            "HILL START ASSIST",
+            "LANE-KEEPING SYSTEM",
+            "POST-COLLISION BRAKING",
+            "PRE-COLLISION ASSIST W/AEB",
+            "REAR VIEW CAMERA W/ TRAILER HITCH ASSIST",
+            "SELECTABLE DRIVE MODES",
+            "USB PORTS - 5 AMP"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FBAX2Y86SKA27544"
+      }
+    },
+    "f150-lightning": {},
+    "mustang": {
+      "2025 Mustang\u00ae GT Premium Convertible": {
+        "vehicle_name": "2025 Mustang\u00ae GT Premium Convertible",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Mustang\u00ae",
+          "trim": "GT Premium Convertible",
+          "vehicle_type": "Performance"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000E3.~5WA00.~BPFAB.~BS-BH.~D2FCM.~EN-MF.~F2ABX.~HKCBA.~PN4LG.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/INT/2/vehicle.png"
+        ],
+        "price": "$61,366.60",
+        "annual_mileage": "10,500 miles",
+        "specifications": {},
+        "features": {
+          "exterior": [
+            "20\" X 9\" Premium-painted Aluminum Wheels",
+            "Active Valve Performance Exhaust GT",
+            "Blade Decklid Spoiler \u2013 Painted Body Color",
+            "Engine Block Heater",
+            "Hood Accent Stripe Delete",
+            "Less Racing Stripe",
+            "Less Side Stripe",
+            "Molten Magenta Metallic Tri-coat"
+          ],
+          "interior": [
+            "265/35R20 W-Rated All Season",
+            "Aluminum Foot Pedals",
+            "Ambient Lighting with MyColor\u00ae",
+            "Carmine Red",
+            "Climate Controlled (Heated and Cooled; Driver Seat)",
+            "Climate Controlled (Heated and Cooled; Passenger Seat)",
+            "Driver Seat (three (3) settings) and Mirrors with Integrated Turn Signals",
+            "Dual Zone Auto Climate Control",
+            "Heated Steering Wheel",
+            "Illuminated Door-sill Scuff Plates",
+            "Leather-Trimmed (front), Vinyl (Rear)",
+            "Seat Belt with Color Accent",
+            "Unique Color-accented Door-Trim",
+            "Unique Leather-Trimmed Seats"
+          ],
+          "functional": [
+            "10-Speed SelectShift\u00ae Automatic Transmission",
+            "3.55 Limited-slip Rear-Axle",
+            "5.0L Ti-VCT V8 Engine With Stop/Start System",
+            "9 Speaker Stereo System",
+            "BLIS\u00ae with Cross-Traffic Alert",
+            "Connected Navigation (1-year included)",
+            "Rear-Wheel Drive",
+            "Remote Start System",
+            "SYNC\u00ae 4",
+            "SiriusXM with 360L - (Includes 3-month Prepaid Subscription)*",
+            "Sound System with Amplifier - Nine (9) Speakers",
+            "Universal Garage Door Opener (UGDO)"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FAGP8FF2S5117806"
+      },
+      "2025 Mustang\u00ae GT Premium Fastback": {
+        "vehicle_name": "2025 Mustang\u00ae GT Premium Fastback",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Mustang\u00ae",
+          "trim": "GT Premium Fastback",
+          "vehicle_type": "Performance"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~5V900.~BPFAR.~BS-BJ.~D2VAT.~EN-MF.~PN4KN.~TR-EU.~VS-AX.~YZCBA.~YZTAC]/INT/2/vehicle.png"
+        ],
+        "price": "$51,811.60",
+        "specifications": {
+          "horsepower": "486 SAE net @ 7,250 RPM",
+          "epa_range": "15.0 City/24.0 Hwy",
+          "torque": "415 lb.-ft. @ 4,900 rpm",
+          "exterior_color": "Vapor Blue Metallic",
+          "interior_color": "Emberglo",
+          "wheel_type": "19\u201d X 8.5\u201d 19\u201d x 8.5\u201d Premier Polished Aluminum Wheel",
+          "drive": "Rear-Wheel Drive"
+        },
+        "features": {},
+        "warranty": "No warranty information available",
+        "vin": "1FA6P8CF4S5408369"
+      },
+      "2024 Mustang\u00ae GT Premium Fastback": {
+        "vehicle_name": "2024 Mustang\u00ae GT Premium Fastback",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Mustang",
+          "trim": "GT Premium Fastback",
+          "vehicle_type": "Performance"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Mustang/2024/HD-TILE[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000H3.~5WA00.~AB2AF.~BPFAA.~BS-BJ.~D2VCK.~DBCBC.~EN-MF.~F2ABX.~GTBAB.~HKCAB.~IDBAP.~PNYW3.~TR-EU.~VS-AX.~YZCFA.~YZTAC]/INT/2/vehicle.png"
+        ],
+        "price": "$53,536.00",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "480 SAE net @ 7,150 RPM",
+          "epa_range": "15.0 City/24.0 Hwy",
+          "torque": "415 lb.-ft. @ 4,900 rpm",
+          "exterior_color": "Oxford White",
+          "interior_color": "Navy Pier",
+          "wheel_type": "19\u201d X 8.5\u201d 19\" X 8.5\" Carbonized Gray with Rave Blue Pad-printed \u201cGT/CS\u201d",
+          "drive": "Rear-Wheel Drive"
+        },
+        "features": {
+          "interior": [
+            "Active Anti-Theft System",
+            "Aluminum Foot Pedals",
+            "Ambient Lighting with MyColor\u00ae",
+            "Climate Controlled \u2013 Seats",
+            "Dual-Zone Automatic Temperature Control (DEATC)",
+            "Front Floor Mats \u2013 Black Burkeshire with Accent Stitching and \u201cCalifornia Special\u201d Logo",
+            "Heated Steering Wheel",
+            "Illuminated Door-sill Scuff Plates",
+            "Leather-Trimmed (Front Seats) - Vinyl (Rear Seats)",
+            "Leather-Trimmed Seats",
+            "Locking Center Console",
+            "Navy Pier",
+            "Power Driver Seat with Memory (Three (3) Settings) and Integrated Turn Signals",
+            "Rear-Seat \u2013 Split-Bench - Folding",
+            "Unique Color-accented Door-Trim",
+            "Wrapped Center Console with Accent Stitch"
+          ],
+          "functional": [
+            "5.0L Ti-VCT V8 Engine With Stop/Start System",
+            "B&O\u00ae Sound System by Bang & Olufsen\u00ae \u2013 12 Speakers including Subwoofer In-Trunk",
+            "Connected Built-in Navigation",
+            "HD Radio\u2122 Sound System with Amplifier",
+            "SYNC\u00ae 4.0",
+            "SiriusXM"
+          ]
+        },
+        "warranty": "Basic: 3 years/36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FA6P8CF2R5434995"
+      },
+      "2024 Mustang\u00ae EcoBoost\u00ae Convertible": {
+        "vehicle_name": "2024 Mustang\u00ae EcoBoost\u00ae Convertible",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Mustang",
+          "trim": "EcoBoost Convertible",
+          "vehicle_type": "Performance"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Mustang/2024/HD-TILE[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2024%7C1%7C1.%7C~000VW.~5Z200.~BAYAC.~BPFAA.~BS-BH.~D2UEF.~EN-N3.~PN4KM.~TR-EU.~VS-AB.~YZBME]/INT/2/vehicle.png"
+        ],
+        "price": "$40,767.64",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "315 SAE net @ 5,500 RPM",
+          "epa_range": "21.0 City/29.0 Hwy",
+          "torque": "350 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Yellow Splash Metallic",
+          "interior_color": "Black Onyx",
+          "wheel_type": "18\" Machined-Face Aluminum with High-Gloss Ebony Black-Painted Pockets Wheels",
+          "drive": "Rear-Wheel Drive"
+        },
+        "features": {
+          "interior": [
+            "Active Anti-Theft System",
+            "Black Onyx",
+            "Cloth / Vinyl Trim Seats",
+            "Dual-Zone Automatic Temperature Control (DEATC)",
+            "Heated Seats \u2013 Driver/Passenger",
+            "Leather-Trimmed (Front Seats) - Vinyl (Rear Seats)",
+            "Locking Center Console",
+            "Premium Floor Liners Front and Rear (without Carpet Mats)",
+            "Six (6)-Way Power Driver Seat with Power Lumbar"
+          ],
+          "functional": [
+            "2.3L EcoBoost\u00ae Engine",
+            "9 Speaker Stereo System (3 Speakers)",
+            "HD Radio\u2122 Sound System with Amplifier",
+            "SYNC\u00ae 4.0",
+            "SiriusXM"
+          ]
+        },
+        "warranty": "Basic: 3 years/36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FAGP8UH4R5143516"
+      },
+      "2025 Mustang\u00ae EcoBoost\u00ae Premium Fastback": {
+        "vehicle_name": "2025 Mustang\u00ae EcoBoost\u00ae Premium Fastback",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "Mustang",
+          "trim": "EcoBoost Premium Fastback",
+          "vehicle_type": "Performance"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Mustang/2025/HD-TILE[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Mustang/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CMustang%7C2025%7C1%7C1.%7C~000BJ.~3ES00.~BPFAB.~BS-BJ.~D2UEF.~EN-N3.~HKCBA.~IDBAP.~PNYW3.~TR-EU.~VS-AB.~YZBBA.~YZTAC]/INT/2/vehicle.png"
+        ],
+        "price": "$39,444.60",
+        "annual_mileage": "10,500 miles",
+        "specifications": {
+          "horsepower": "315 SAE net @ 5,500 RPM",
+          "epa_range": "22.0 City/33.0 Hwy",
+          "torque": "350 lb.-ft. @ 3,000 rpm",
+          "exterior_color": "Oxford White",
+          "interior_color": "Emberglo",
+          "wheel_type": "18\" Machined-Face Aluminum with High-Gloss Ebony Black-Painted Pockets Wheels",
+          "drive": "Rear-Wheel Drive"
+        },
+        "features": {
+          "interior": [
+            "235/50 ZR18 BSW All-Season Tires",
+            "6-way Power Driver Seat with Power Lumbar",
+            "ActiveX\u00ae Seats",
+            "Aluminum Foot Pedals",
+            "Ambient Lighting with MyColor\u00ae",
+            "Climate Controlled (Heated and Cooled; Driver Seat)",
+            "Climate Controlled (Heated and Cooled; Passenger Seat)",
+            "Dual Zone Auto Climate Control",
+            "Emberglo",
+            "Heated Steering Wheel",
+            "Leather-Trimmed (front), Vinyl (Rear)",
+            "Premium Door-Trim",
+            "Rear-Seat \u2013 Split-bench, folding"
+          ],
+          "functional": [
+            "10-Speed SelectShift\u00ae Automatic Transmission",
+            "2.3L EcoBoost\u00ae Engine",
+            "3.15 Limited-slip Rear-Axle",
+            "B&O\u00ae Sound System by Bang & Olufsen\u00ae - 12 Speakers including Subwoofer In-Trunk",
+            "BLIS\u00ae with Cross-Traffic Alert",
+            "Connected Navigation (1-year included)",
+            "Rear-Wheel Drive",
+            "Remote Start System",
+            "SYNC\u00ae 4",
+            "SiriusXM with 360L - (Includes 3-month Prepaid Subscription)*",
+            "Sound System with Amplifier - Nine (9) Speakers"
+          ]
+        },
+        "warranty": "Basic: 3 years/36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles",
+        "vin": "1FA6P8TH8S5117696"
+      }
+    },
+    "mach-e": {},
+    "e-series-stripped-chassis": {},
+    "eseries-cutaway": {
+      "2025 E-Series Cutaway E-350 SRW": {
+        "vehicle_name": "2025 E-Series Cutaway E-350 SRW",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "E-Series Cutaway",
+          "trim": "E-350 SRW",
+          "vehicle_type": "Van"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-TILE[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...SRW.BS3.%5D/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...SRW.BS3.%5D/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...SRW.BS3.%5D/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...SRW.BS3.%5D/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...SRW.BS3.%5D/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...SRW.BS3.%5D/EXT/5/vehicle.png",
+          "/inventory/details/images/commercial-truck.png",
+          "/inventory/details/images/commercial-truck.png"
+        ],
+        "specifications": {},
+        "features": {
+          "exterior": [
+            "AUXILIARY FUEL PORT",
+            "BUMPER, BLACK",
+            "HEADLAMPS - AUTOLAMP (ON/OFF)",
+            "INTERVAL WIPERS",
+            "LT245/75R16E BSW A/S TIRES",
+            "SOLAR TINTED GLASS"
+          ],
+          "interior": [
+            "AIR CONDITIONING",
+            "AM/FM RADIO W/ BLUETOOTH",
+            "BLACK VINYL FLOOR COVERING",
+            "GLOVE BOX WITH POWERPOINT",
+            "POWERPOINT - 12V (FRONT)",
+            "STEERING - TILT/TELESCOPIC",
+            "TACHOMETER",
+            "VINYL FRONT HEADLINER",
+            "VINYL SUN VISORS"
+          ],
+          "functional": [
+            "AUX TRANSMISSION COOLER",
+            "BATTERY - 78 AMP-HR",
+            "FLEET TELEMATICS MODEM",
+            "HILL START ASSIST",
+            "TWIN I-BEAM INDEPENDENT FRONT SUSPENSION"
+          ]
+        },
+        "warranty": "3YR/36,000 BUMPER / BUMPER\n5YR/60,000 POWERTRAIN\n5YR/60,000 ROADSIDE ASSIST",
+        "vin": "1FDWE3FN6SDD16171"
+      },
+      "2026 E-Series Cutaway E-350 SRW": {
+        "vehicle_name": "2026 E-Series Cutaway E-350 SRW",
+        "parsed_name": {
+          "year": "2026",
+          "make": "Ford",
+          "model": "E-Series Cutaway",
+          "trim": "E-350 SRW",
+          "vehicle_type": "Van"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-TILE[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2026/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2026%7C1%7C1.%7C...PYZ...DRW.BS3.%5D/INT/1/vehicle.png",
+          "/inventory/details/images/commercial-truck.png"
+        ],
+        "specifications": {},
+        "features": {
+          "exterior": [
+            "AUXILIARY FUEL PORT",
+            "BUMPER, BLACK",
+            "HEADLAMPS - AUTOLAMP (ON/OFF)",
+            "INTERVAL WIPERS",
+            "LT225/75R16E BSW TIRES",
+            "SOLAR TINTED GLASS"
+          ],
+          "interior": [
+            "AIR CONDITIONING",
+            "AM/FM RADIO W/ BLUETOOTH",
+            "BLACK VINYL FLOOR COVERING",
+            "GLOVE BOX W/ 12V PWR PT",
+            "POWERPOINT - 12V (FRONT)",
+            "STEERING - TILT/TELESCOPIC",
+            "TACHOMETER",
+            "VINYL FRONT HEADLINER",
+            "VINYL SUN VISORS"
+          ],
+          "functional": [
+            "AUX TRANSMISSION COOLER",
+            "BATTERY - 78 AMP-HR",
+            "FLEET TELEMATICS MODEM",
+            "HILL START ASSIST",
+            "TWIN I-BEAM INDEPENDENT FRONT SUSPENSION"
+          ]
+        },
+        "warranty": "3YR/36000 BUMPER TO BUMPER\n5YR/60,000 POWERTRAIN\n5YR/60,000 ROADSIDE ASSIST",
+        "vin": "1FDWE3FN4TDD00388"
+      },
+      "2025 E-Series Cutaway E-450 DRW": {
+        "vehicle_name": "2025 E-Series Cutaway E-450 DRW",
+        "parsed_name": {
+          "year": "2025",
+          "make": "Ford",
+          "model": "E-Series Cutaway",
+          "trim": "E-450 DRW",
+          "vehicle_type": "Van"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-TILE[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...DRW.BS4.%5D/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...DRW.BS4.%5D/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...DRW.BS4.%5D/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...DRW.BS4.%5D/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...DRW.BS4.%5D/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Econoline%20Cutaway/2025/HD-THUMB[INTBCK]/Image%5B%7CFord%7CEconoline%20Cutaway%7C2025%7C1%7C1.%7C...PYZ...DRW.BS4.%5D/EXT/5/vehicle.png",
+          "/inventory/details/images/commercial-truck.png",
+          "/inventory/details/images/commercial-truck.png"
+        ],
+        "specifications": {},
+        "features": {
+          "exterior": [
+            "AUXILIARY FUEL PORT",
+            "BUMPER, BLACK",
+            "HEADLAMPS - AUTOLAMP (ON/OFF)",
+            "INTERVAL WIPERS",
+            "LT225/75R16E BSW TIRES",
+            "SOLAR TINTED GLASS"
+          ],
+          "functional": [
+            "AUX TRANSMISSION COOLER",
+            "BATTERY - 78 AMP-HR",
+            "FLEET TELEMATICS MODEM",
+            "HILL START ASSIST",
+            "TWIN I-BEAM INDEPENDENT FRONT SUSPENSION"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FDXE4FN7SDD35581"
+      }
+    },
+    "f-series-stripped-chassis": {},
+    "transitchassis": {},
+    "e-transit": {},
+    "chassis-cab": {
+      "2024 Chassis Cab F-350\u00ae XL": {
+        "vehicle_name": "2024 Chassis Cab F-350\u00ae XL",
+        "parsed_name": {
+          "year": "2024",
+          "make": "Ford",
+          "model": "Chassis Cab F-350\u00ae",
+          "trim": "XL",
+          "vehicle_type": "Truck"
+        },
+        "main_image": "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-TILE[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/EXT/1/vehicle.png?imwidth=640",
+        "additional_images": [
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/EXT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/EXT/2/vehicle.png",
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/EXT/3/vehicle.png",
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/EXT/4/vehicle.png",
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/EXT/5/vehicle.png",
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/INT/1/vehicle.png",
+          "https://build.ford.com/dig/Ford/Chassis%20Cab/2024/HD-THUMB[INTBCK]/Image%5B%7CFord%7CChassis%20Cab%7C2024%7C1%7C1.%7C...PZ1...89S.XL.54K.REC.DRW.64K.4X4.350CC.VIN.%5D/INT/2/vehicle.png"
+        ],
+        "specifications": {},
+        "features": {
+          "exterior": [
+            "HEADLAMPS - AUTOLAMP (ON/OFF)",
+            "HEADLAMPS -WIPER ACTIVATED",
+            "MIRRORS - HTD, PWR GLASS/ MANUAL-FOLD/TURN SIGNALS",
+            "ROOF CLEARANCE LIGHTS",
+            "TOW HOOKS",
+            "TRAILER BRAKE CONTROLLER",
+            "TRAILER SWAY CONTROL",
+            "TRAILER TOW WIRE HARNESS",
+            "WIPERS- INTERMITTENT"
+          ],
+          "functional": [
+            "4-WHEEL ANTILOCK BRAKE SYS",
+            "FORDPASS CONNECT 5GWI-FI HOTSPOT TELEMATICS MODEM",
+            "HILL START ASSIST",
+            "JEWEL EFFECT HEADLAMPS",
+            "REMOTE KEYLESS ENTRY",
+            "STABILIZER BAR, FRONT/REAR",
+            "SYNC4 W/8\" SCREEN"
+          ]
+        },
+        "warranty": "No warranty information available",
+        "vin": "1FDRF3HN6RDA38065"
+      }
+    }
+  }
