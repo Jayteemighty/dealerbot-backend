@@ -1,0 +1,221 @@
+ssh -p 22 ace@147.93.119.68
+
+sudo systemctl restart dealerbot
+sudo systemctl status dealerbot
+
+Proper Installation of crewAI is at : https://docs.crewai.com/installation
+
+crewai create crew research_crew
+cd research_crew
+
+
+pip install crewai langchain-openai openai python-dotenv flask flask-cors psycopg2-binary
+
+
+COMPARE VEHICLES
+{
+    "vehicles" : [
+        {
+            "additional_images": [
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/EXT/1/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/EXT/2/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/EXT/3/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/EXT/4/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/EXT/5/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/INT/1/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2025/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/INT/2/vehicle.png"
+            ],
+            "annual_mileage": "10,500 miles",
+            "features": {
+                "exterior": [
+                    "Rear-Window Defroster and Washer",
+                    "Side Step"
+                ],
+                "functional": [
+                    "3.73 Axle",
+                    "360-Degree Camera",
+                    "Adaptive Cruise Control",
+                    "Auto-Dimming Rearview Mirror",
+                    "B&O® Sound System by Bang & Olufsen®, 10 Speakers including Subwoofer",
+                    "B&O® Sound System by Bang & Olufsen®, 12 Speakers including Subwoofer",
+                    "Connected Navigation",
+                    "Front Row Heated Seats",
+                    "Open Rear Differential",
+                    "Power Outlet – Back Side of Center Floor Console",
+                    "Remote Start System – Key Fob Activated",
+                    "SYNC® 4"
+                ],
+                "interior": [
+                    "Dual-Zone Electronic Automatic Temperature Control"
+                ]
+            },
+            "main_image": "https://build.ford.com/dig/Ford/Bronco/2025/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2025%7C1%7C1.%7C~000VW.~5V700.~ABEBL.~AC--K.~BPLAD.~CA%23WL.~D2UFA.~D3HFV.~DR--E.~EN-WQ.~PNYW3.~SE%23HE.~TR-ET.~YZCAH]/EXT/1/vehicle.png?imwidth=640",
+            "parsed_name": {
+                "make": "Ford",
+                "model": "Bronco",
+                "trim": "Outer Banks",
+                "vehicle_type": "SUV",
+                "year": "2025"
+            },
+            "price": "$54,020.00",
+            "specifications": {
+                "drive": "4x4",
+                "epa_range": "19.0 City/21.0 Hwy",
+                "exterior_color": "Oxford White",
+                "horsepower": "330 hp @ 5,250 rpm (Premium Fuel)",
+                "interior_color": "Black Onyx",
+                "torque": "415 lb.-ft. @ 3,100 rpm (Premium Fuel)",
+                "wheel_type": "18” Bright Machined Black High Gloss-Painted Aluminum Wheels"
+            },
+            "vehicle_name": "2025 Bronco® Outer Banks®",
+            "vin": "1FMEE8BP4SLA59534",
+            "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles"
+        },
+        {
+            "additional_images": [
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/EXT/1/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/EXT/2/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/EXT/3/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/EXT/4/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/EXT/5/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/INT/1/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/INT/2/vehicle.png"
+            ],
+            "annual_mileage": "10,500 miles",
+            "features": {
+                "exterior": [
+                    "Base LED Headlamps",
+                    "Full Vehicle Steel Bash Plates",
+                    "Rear-Window Defroster and Washer",
+                    "Rock Rails",
+                    "Wheel Lock Kit"
+                ],
+                "functional": [
+                    "12” LCD Capacitive Touchscreen with Swipe Capability",
+                    "AM/FM Audio with Seven (7) Speakers, including Subwoofer",
+                    "Dual Smart Charging USB Ports",
+                    "SYNC® 4 with Enhanced Voice Recognition",
+                    "SiriusXM® with 360L"
+                ],
+                "interior": [
+                    "Auxiliary Switches",
+                    "Dual Smart Charging USB Ports",
+                    "Dual-Zone Electronic Automatic Temperature Control",
+                    "Floor Liners, Front and Rear without Carpet Floor Mats",
+                    "Front Row Heated Seats",
+                    "Hard Top Sound Deadening Headliner",
+                    "Power Outlet – Back Side of Center Floor Console",
+                    "Remote Start System",
+                    "Storage Bag – Front Row Top Panels"
+                ]
+            },
+            "main_image": "https://build.ford.com/dig/Ford/Bronco/2024/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~3ES00.~AACQR.~ABEBL.~AC--K.~B5VBC.~BAYAC.~BPLBB.~CA%23WL.~D2YM4.~D3KHQ.~DR--E.~EN-N3.~FHIAE.~HJGAX.~HKCBA.~PN4KJ.~SE%23HH.~TR-ET.~YZCAM]/EXT/1/vehicle.png?imwidth=640",
+            "parsed_name": {
+                "make": "Ford",
+                "model": "Bronco",
+                "trim": "Black Diamond",
+                "vehicle_type": "SUV",
+                "year": "2024"
+            },
+            "price": "$55,350.00",
+            "specifications": {
+                "drive": "4x4",
+                "epa_range": "18.0 City/18.0 Hwy",
+                "exterior_color": "Azure Gray Metallic Tri-Coat – Extra Cost",
+                "horsepower": "300 hp @ 5,700 rpm (Premium Fuel)",
+                "interior_color": "Black Onyx",
+                "torque": "325 lb.-ft. @ 3,400 rpm (Premium Fuel)",
+                "wheel_type": "17” Carbonized Gray-Painted Alloy Wheels"
+            },
+            "vehicle_name": "2024 Bronco® Black Diamond™",
+            "vin": "1FMEE1BH1RLB12748",
+            "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles"
+        },
+        {
+            "additional_images": [
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/1/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/2/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/3/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/4/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/5/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/INT/1/vehicle.png",
+                "https://build.ford.com/dig/Ford/Bronco/2024/HD-THUMB[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/INT/2/vehicle.png"
+            ],
+            "annual_mileage": "10,500 miles",
+            "features": {
+                "exterior": [
+                    "360-Degree Camera",
+                    "HOSS 3.0 with FOX™ Internal Bypass Dampers",
+                    "Headlamps – LED with LED Signature Lighting",
+                    "Rear-Window Defroster and Washer",
+                    "Steel Bash Plates under front section of vehicle"
+                ],
+                "functional": [
+                    "12” LCD Capacitive Touchscreen with Swipe Capability",
+                    "Dual Smart Charging USB Ports",
+                    "SYNC® 4 with Enhanced Voice Recognition",
+                    "SiriusXM® with 360L"
+                ],
+                "interior": [
+                    "Adaptive Cruise Control",
+                    "Auxiliary Switches",
+                    "Dual Smart Charging USB Ports",
+                    "Dual-Zone Electronic Automatic Temperature Control",
+                    "Front Row Heated Seats",
+                    "Heated Steering Wheel",
+                    "Power Outlet – Back Side of Center Floor Console",
+                    "Remote Start System",
+                    "Storage Bags – Door",
+                    "Wireless Charging Pad"
+                ]
+            },
+            "main_image": "https://build.ford.com/dig/Ford/Bronco/2024/HD-TILE[INTBCK]/Image[%7CFord%7CBronco%7C2024%7C1%7C1.%7C~000VW.~12T00.~AACT5.~ABEAB.~AC--K.~B5VBC.~CA%23WL.~CLFCG.~D2YGZ.~D3KHQ.~DR--E.~EN-WQ.~HJGAX.~HKCBA.~JBBBS.~PN4GL.~SE%23HF.~TR-ET.~YZCAV]/EXT/1/vehicle.png?imwidth=640",
+            "parsed_name": {
+                "make": "Ford",
+                "model": "Bronco",
+                "trim": "Wildtrak",
+                "vehicle_type": "SUV",
+                "year": "2024"
+            },
+            "price": "$61,543.00",
+            "specifications": {
+                "drive": "4x4",
+                "epa_range": "17.0 City/17.0 Hwy",
+                "exterior_color": "Velocity Blue Metallic",
+                "horsepower": "330 hp @ 5,250 rpm (Premium Fuel)",
+                "interior_color": "Black Onyx",
+                "torque": "415 lb.-ft. @ 3,100 rpm (Premium Fuel)",
+                "wheel_type": "17” Black High Gloss-Painted Aluminum Wheels with Black Beauty Ring Beadlock Capable"
+            },
+            "vehicle_name": "2024 Bronco® Wildtrak™",
+            "vin": "1FMEE2BP7RLA71331",
+            "warranty": "Bumper to Bumper: 3 years / 36,000 miles\nCorrosion (Perforation only): 5 years / Unlimited miles\nPowertrain: 5 years / 60,000 miles\nRoadside Assistance Program: 5 years/ 60,000 miles\nSafety Restraint System: 5 years / 60,000 miles"
+        }
+    ],
+    "session_id": null
+}
+
+
+INVENTORY SEARCH
+{
+    "query": "Show me all Ford Escape vehicles",
+    "session_id": "your-session-id"
+}
+
+INITIATE CONVERSATION
+{
+    "query": "Do you have any Ford Escape vehicles in stock?",
+    "session_id": "your-session-id"
+}
+
+INITIALISE SESSION
+{
+    "query": "Initialize",
+    "session_id": null
+}
+
+FORD EXPERT
+{
+    "query": "Do you think the Escape ST-Line is good for a mother of 3 and 2 dogs like myself?",
+    "session_id": "your-session-id"
+}
