@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Request, HTTPException, status
+from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import json
@@ -16,7 +16,7 @@ PRODUCTION_MODE = os.getenv("PRODUCTION_MODE", "false").lower() == "true"
 
 app = FastAPI()
 
-# Configure CORS
+# CORS configuration
 origins = [
     "http://localhost",
     "http://127.0.0.1",
@@ -39,72 +39,78 @@ app.add_middleware(
 # Initialize feedback manager
 feedback_manager = FeedbackManager()
 
-@app.post('/user_query')
+@app.post("/user_query")
 async def handle_query(request: Request):
     """
     Handle the incoming query from the frontend.
     """
     try:
         data = await request.json()
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON data")
-    
-    user_query = data.get('query', '')
-    session_id = data.get('session_id')
+        user_query = data.get('query', '')
+        session_id = data.get('session_id')
 
-    # Validate query
-    if not user_query or not user_query.strip():
-        raise HTTPException(status_code=400, detail="Query cannot be empty")
+        # Validate query
+        if not user_query or not user_query.strip():
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Query cannot be empty"
+            )
 
-    # Create a new session if none exists
-    if not session_id:
-        session_id = session_manager.create_session()
-    
-    # Process the query using the dealerbot agent with session context
-    response = query_dealerbot_agent(user_query, session_id)
+        # Create a new session if none exists
+        if not session_id:
+            session_id = session_manager.create_session()
+        
+        # Process the query using the dealerbot agent with session context
+        response = query_dealerbot_agent(user_query, session_id)
 
-    # --- Consistent response structure ---
-    response_type = "formatted"
-    message = None
-    data_field = None
+        # --- Consistent response structure ---
+        response_type = "formatted"
+        message = None
+        data_field = None
 
-    if isinstance(response, dict):
-        # If already has type/message/data, use them
-        response_type = response.get("type", "formatted")
-        message = response.get("message")
-        data_field = response.get("data")
-        # If dict is just raw vehicle data (all vehicles), set type and data
-        if response_type == "raw_data" and not message:
-            message = "Here is the full vehicle inventory."
-    else:
-        # If response is a string, treat as formatted message
-        message = response
+        if isinstance(response, dict):
+            # If already has type/message/data, use them
+            response_type = response.get("type", "formatted")
+            message = response.get("message")
+            data_field = response.get("data")
+            # If dict is just raw vehicle data (all vehicles), set type and data
+            if response_type == "raw_data" and not message:
+                message = "Here is the full vehicle inventory."
+        else:
+            # If response is a string, treat as formatted message
+            message = response
 
-    # Save the user query and response to the database with roles
-    try:
-        store_chat([
-            {
-                "role": "user",
-                "message": user_query,
-                "session_id": session_id
-            },
-            {
-                "role": "bot",
-                "message": json.dumps(message),
-                "session_id": session_id
-            }
-        ])
+        # Save the user query and response to the database with roles
+        try:
+            store_chat([
+                {
+                    "role": "user",
+                    "message": user_query,
+                    "session_id": session_id
+                },
+                {
+                    "role": "bot",
+                    "message": json.dumps(message),
+                    "session_id": session_id
+                }
+            ])
+        except Exception as e:
+            print(f"[DB ERROR] Failed to store chat: {e}")
+
+        return {
+            "type": response_type,
+            "message": message,
+            "data": data_field,
+            "session_id": session_id
+        }
+
     except Exception as e:
-        print(f"[DB ERROR] Failed to store chat: {e}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
 
-    return {
-        "type": response_type,
-        "message": message,
-        "data": data_field,
-        "session_id": session_id
-    }
-
-@app.post('/compare_vehicles')
+@app.post("/compare_vehicles")
 async def handle_vehicle_comparison(request: Request):
     """
     Handle vehicle comparison requests.
@@ -112,99 +118,132 @@ async def handle_vehicle_comparison(request: Request):
     """
     try:
         data = await request.json()
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON data")
-    
-    vehicles_data = data.get('vehicles', [])
-    session_id = data.get('session_id')
-    
-    if not vehicles_data:
-        raise HTTPException(status_code=400, detail="No vehicles provided for comparison")
+        vehicles_data = data.get('vehicles', [])
+        session_id = data.get('session_id')
         
-    if len(vehicles_data) < 2:
-        raise HTTPException(status_code=400, detail="At least two vehicles are required for comparison")
+        if not vehicles_data:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="No vehicles provided for comparison"
+            )
+            
+        if len(vehicles_data) < 2:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="At least two vehicles are required for comparison"
+            )
+            
+        # Compare the vehicles with session context
+        comparison = compare_vehicles(vehicles_data, session_id)
         
-    # Compare the vehicles with session context
-    comparison = compare_vehicles(vehicles_data, session_id)
-    
-    # Update session with comparison data if session exists
-    if session_id:
-        session_manager.update_session(session_id, {
-            'last_comparison': comparison,
-            'last_vehicles': vehicles_data
-        })
-    
-    # Parse the comparison response
-    try:
-        comparison_json = json.loads(comparison)
-        return {
-            "comparison": comparison_json,
-            "session_id": session_id
-        }
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=500, detail="Failed to parse comparison response")
+        # Update session with comparison data if session exists
+        if session_id:
+            session_manager.update_session(session_id, {
+                'last_comparison': comparison,
+                'last_vehicles': vehicles_data
+            })
+        
+        # Parse the comparison response
+        try:
+            comparison_json = json.loads(comparison)
+            return {
+                "comparison": comparison_json,
+                "session_id": session_id
+            }
+        except json.JSONDecodeError:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="Failed to parse comparison response"
+            )
+            
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
 
-@app.post('/clear_session')
+@app.post("/clear_session")
 async def clear_session(request: Request):
     """
     Clear a session's context.
     """
     try:
         data = await request.json()
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON data")
-    
-    session_id = data.get('session_id')
-    
-    if not session_id:
-        raise HTTPException(status_code=400, detail="No session ID provided")
+        session_id = data.get('session_id')
         
-    if session_manager.clear_session(session_id):
-        return {"message": "Session cleared successfully"}
-    else:
-        raise HTTPException(status_code=404, detail="Session not found")
+        if not session_id:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="No session ID provided"
+            )
+            
+        if session_manager.clear_session(session_id):
+            return {"message": "Session cleared successfully"}
+        else:
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Session not found"
+            )
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
 
 @app.post("/submit-inquiry")
 async def submit_inquiry_endpoint(request: Request):
     try:
         data = await request.json()
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON data")
-    
-    name = data.get("name", "")
-    phone = data.get("phone", "")
-    email = data.get("email", "")
-    inquiry_type = data.get("inquiry_type", "")
-    details = data.get("details", "")
+        name = data.get("name", "")
+        phone = data.get("phone", "")
+        email = data.get("email", "")
+        inquiry_type = data.get("inquiry_type", "")
+        details = data.get("details", "")
 
-    if not all([name, phone, email, inquiry_type, details]):
-        raise HTTPException(status_code=400, detail="All fields are required")
+        if not all([name, phone, email, inquiry_type, details]):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="All fields are required"
+            )
 
-    success, error_message = submit_inquiry(name, phone, email, inquiry_type, details)
-    
-    if success:
-        return {"message": "Got it! I've passed your message along. A DealerBot team member will be in touch shortly via phone or email to assist you further"}
-    else:
-        raise HTTPException(status_code=500, detail=error_message)
+        success, error_message = submit_inquiry(name, phone, email, inquiry_type, details)
+        
+        if success:
+            return {
+                "message": "Got it! I've passed your message along. A DealerBot team member will be in touch shortly via phone or email to assist you further"
+            }
+        else:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail=error_message
+            )
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
 
-@app.post('/store_chat')
+@app.post("/store_chat")
 async def store_chat_api(request: Request):
     """API endpoint to store chat messages in the database."""
     try:
         chat_data = await request.json()
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON data")
-    
-    if not isinstance(chat_data, list):
-        raise HTTPException(status_code=400, detail="Invalid input format, expected a list of messages")
-    
-    try:
+        
+        if not isinstance(chat_data, list):
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Invalid input format, expected a list of messages"
+            )
+        
         store_chat(chat_data)
         return {"message": "Chat stored successfully"}
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
 
-@app.post('/feedback')
+@app.post("/feedback")
 async def handle_feedback(request: Request):
     """
     Handle user feedback submission.
@@ -212,45 +251,38 @@ async def handle_feedback(request: Request):
     """
     try:
         data = await request.json()
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=400, detail="Invalid JSON data")
-    
-    session_id = data.get('session_id')
-    feedback_type = data.get('feedback')
-    message = data.get('message')  # Optional message
+        session_id = data.get('session_id')
+        feedback_type = data.get('feedback')
+        message = data.get('message')  # Optional message
 
-    if not session_id or not feedback_type:
-        raise HTTPException(status_code=400, detail="Session ID and feedback type are required")
+        if not session_id or not feedback_type:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Session ID and feedback type are required"
+            )
 
-    if feedback_type not in ['positive', 'negative']:
-        raise HTTPException(status_code=400, detail="Invalid feedback type")
+        if feedback_type not in ['positive', 'negative']:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Invalid feedback type"
+            )
 
-    # Store the feedback
-    success = feedback_manager.store_feedback(session_id, feedback_type, message)
-    
-    if success:
-        return {
-            "message": "Thank you for your feedback!",
-            "status": "success"
-        }
-    else:
-        raise HTTPException(status_code=500, detail="Failed to store feedback")
+        # Store the feedback
+        success = feedback_manager.store_feedback(session_id, feedback_type, message)
+        
+        if success:
+            return {
+                "message": "Thank you for your feedback!",
+                "status": "success"
+            }
+        else:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="Failed to store feedback"
+            )
 
-# For production, you would use something like:
-# uvicorn api:app --host 0.0.0.0 --port 5002 --ssl-keyfile ssl/key.pem --ssl-certfile ssl/cert.pem
-if __name__ == "__main__":
-    import uvicorn
-    if PRODUCTION_MODE:
-        uvicorn.run(
-            "api:app",
-            host="0.0.0.0",
-            port=5002,
-            ssl_keyfile="ssl/key.pem",
-            ssl_certfile="ssl/cert.pem"
-        )
-    else:
-        uvicorn.run(
-            "api:app",
-            host="0.0.0.0",
-            port=5002
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
         )
