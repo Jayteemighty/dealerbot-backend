@@ -1,0 +1,60 @@
+POST http://localhost:5002/user_query
+Content-Type: application/json
+
+{
+  "query": "Show me available SUVs"
+}
+
+
+
+# POST http://localhost:5002/compare_vehicles
+# Content-Type: application/json
+
+# {
+#   "vehicles": [
+#     {"make": "Ford", "model": "Mustang"},
+#     {"make": "Ford", "model": "F-150"}
+#   ],
+#   "session_id": "test123"
+# }
+
+
+
+# POST http://localhost:5002/submit-inquiry
+# Content-Type: application/json
+
+# {
+#   "name": "John Doe",
+#   "phone": "1234567890",
+#   "email": "john@example.com",
+#   "inquiry_type": "Test Drive",
+#   "details": "I'd like to test drive a Mustang."
+# }
+
+
+
+# POST http://localhost:5002/store_chat
+# Content-Type: application/json
+
+# [
+#   {
+#     "role": "user",
+#     "message": "Hello, I need help",
+#     "session_id": "abc123"
+#   },
+#   {
+#     "role": "bot",
+#     "message": "Sure, how can I help you?",
+#     "session_id": "abc123"
+#   }
+# ]
+
+
+# POST http://localhost:5002/feedback
+# Content-Type: application/json
+
+# {
+#   "session_id": "abc123",
+#   "feedback": "positive",
+#   "message": "Very helpful!"
+# }
