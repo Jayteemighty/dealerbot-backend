@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import json
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 from dealerbot import query_dealerbot_agent, compare_vehicles
 from submit_form import submit_inquiry
@@ -11,6 +12,9 @@ from session_manager import session_manager
 from feedback import FeedbackManager
 from typing import Dict, Any, Optional
 
+SCRIPT_DIR = Path(__file__).parent
+VEHICLE_DATA = SCRIPT_DIR / "vehicle_data.json"
+
 load_dotenv()  # Loads the variables from .env
 PRODUCTION_MODE = os.getenv("PRODUCTION_MODE", "false").lower() == "true"
 
@@ -18,8 +22,8 @@ app = FastAPI()
 
 # CORS configuration
 origins = [
-    "http://localhost",
-    "http://127.0.0.1",
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
     "http://ladus-ace.github.io",
     "http://ladus-ace.github.io/dealerbot_fe/",
     "https://dealerbot.netlify.app",
@@ -286,3 +290,36 @@ async def handle_feedback(request: Request):
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=str(e)
         )
+
+@app.get("/all_vehicles")
+async def get_all_vehicles():
+    """
+    Get all vehicles from the scraped data
+    """
+    try:
+        # Load vehicle data directly from the JSON file
+        with open(VEHICLE_DATA, "r", encoding='utf-8') as file:
+            vehicle_data = json.load(file)
+        
+        # Flatten the data structure
+        all_vehicles = []
+        for category in vehicle_data.values():
+            if isinstance(category, dict):
+                all_vehicles.extend(category.values())
+        
+        return {
+            "success": True,
+            "count": len(all_vehicles),
+            "vehicles": all_vehicles
+        }
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to load vehicle data: {str(e)}"
+        )
+
+if __name__ == "__main__":
+    if PRODUCTION_MODE : 
+        app.run(ssl_context=("ssl/cert.pem", "ssl/key.pem"), host="0.0.0.0", port=5002)
+    else :
+        app.run(host="0.0.0.0", port=5002)

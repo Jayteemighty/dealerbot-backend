@@ -1,10 +1,12 @@
-POST http://localhost:5002/user_query
+# POST http://localhost:5002/user_query
+# Content-Type: application/json
+
+# {
+#   "query": "Show me available SUVs"
+# }
+
+GET http://localhost:8000/all_vehicles
 Content-Type: application/json
-
-{
-  "query": "Show me available SUVs"
-}
-
 
 
 # POST http://localhost:5002/compare_vehicles
