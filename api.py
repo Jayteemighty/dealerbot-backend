@@ -29,7 +29,8 @@ origins = [
     "https://dealerbot.netlify.app",
     "https://dealerbot-fe.vercel.app",
     "https://web.postman.co",
-    "https://ladus.io/dealerbot/"
+    "https://ladus.io/dealerbot/",
+    "https://bjfrontend.vercel.app"
 ]
 
 app.add_middleware(
