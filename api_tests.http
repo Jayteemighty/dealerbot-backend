@@ -5,20 +5,20 @@
 #   "query": "Show me available SUVs"
 # }
 
-GET http://localhost:8000/all_vehicles
-Content-Type: application/json
-
-
-# POST http://localhost:5002/compare_vehicles
+# GET http://localhost:8000/all_vehicles
 # Content-Type: application/json
 
-# {
-#   "vehicles": [
-#     {"make": "Ford", "model": "Mustang"},
-#     {"make": "Ford", "model": "F-150"}
-#   ],
-#   "session_id": "test123"
-# }
+
+POST http://localhost:5002/compare_vehicles
+Content-Type: application/json
+
+{
+  "vehicles": [
+    {"make": "Ford", "model": "Mustang"},
+    {"make": "Ford", "model": "F-150"}
+  ],
+  "session_id": "test123"
+}
 
 
 
