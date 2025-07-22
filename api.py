@@ -319,6 +319,33 @@ async def get_all_vehicles():
             detail=f"Failed to load vehicle data: {str(e)}"
         )
 
+@app.get("/vehicle/{vin}")
+async def get_vehicle_by_vin(vin: str):
+    """
+    Get a specific vehicle by its VIN
+    """
+    try:
+        # Load vehicle data directly from the JSON file
+        with open(VEHICLE_DATA, "r", encoding='utf-8') as file:
+            vehicle_data = json.load(file)
+        
+        # Search through all categories for the vehicle with matching VIN
+        for category in vehicle_data.values():
+            if isinstance(category, dict):
+                for vehicle in category.values():
+                    if isinstance(vehicle, dict) and vehicle.get("vin") == vin:
+                        return vehicle
+        
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Vehicle not found"
+        )
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to load vehicle data: {str(e)}"
+        )
+
 if __name__ == "__main__":
     if PRODUCTION_MODE : 
         app.run(ssl_context=("ssl/cert.pem", "ssl/key.pem"), host="0.0.0.0", port=5002)
