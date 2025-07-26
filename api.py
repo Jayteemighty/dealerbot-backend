@@ -346,6 +346,114 @@ async def get_vehicle_by_vin(vin: str):
             detail=f"Failed to load vehicle data: {str(e)}"
         )
 
+@app.get("/chat_vehicles")
+async def get_chat_vehicles():
+    """Get minimal vehicle data optimized for chat display"""
+    try:
+        with open(VEHICLE_DATA, "r", encoding='utf-8') as file:
+            vehicle_data = json.load(file)
+        
+        # Extract minimal data for chat display
+        chat_vehicles = []
+        for category in vehicle_data.values():
+            if isinstance(category, dict):
+                for vehicle in category.values():
+                    chat_vehicles.append({
+                        'vin': vehicle.get('vin'),
+                        'vehicle_name': vehicle.get('vehicle_name'),
+                        'main_image': vehicle.get('main_image'),
+                        'price': vehicle.get('price'),
+                        'parsed_name': vehicle.get('parsed_name', {}),
+                        'specifications': {
+                            k: v for k, v in vehicle.get('specifications', {}).items() 
+                            if k in ['epa_range', 'horsepower', 'drive']
+                        }
+                    })
+        
+        return {
+            "success": True,
+            "count": len(chat_vehicles),
+            "vehicles": chat_vehicles
+        }
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to load vehicle data: {str(e)}"
+        )
+
+@app.post("/chat_compare")
+async def chat_compare_vehicles(request: Request):
+    """Compare vehicles specifically for chat display (tabular format)"""
+    try:
+        data = await request.json()
+        vehicles_data = data.get('vehicles', [])
+        session_id = data.get('session_id')
+        
+        if len(vehicles_data) < 2:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="At least two vehicles are required for comparison"
+            )
+            
+        # Load full vehicle data
+        with open(VEHICLE_DATA, "r", encoding='utf-8') as file:
+            all_vehicles = json.load(file)
+        
+        # Find the vehicles to compare
+        vehicles_to_compare = []
+        for category in all_vehicles.values():
+            if isinstance(category, dict):
+                for vehicle in category.values():
+                    if isinstance(vehicle, dict) and vehicle.get('vin') in vehicles_data:
+                        vehicles_to_compare.append(vehicle)
+                        if len(vehicles_to_compare) == len(vehicles_data):
+                            break
+        
+        if len(vehicles_to_compare) != len(vehicles_data):
+            raise HTTPException(
+                status_code=status.HTTP_404_NOT_FOUND,
+                detail="Some vehicles could not be found"
+            )
+        
+        # Create tabular comparison data
+        comparison_data = {
+            "headers": ["Feature"],
+            "rows": []
+        }
+        
+        # Add vehicle names as headers
+        comparison_data["headers"].extend(
+            [v['vehicle_name'] for v in vehicles_to_compare]
+        )
+        
+        # Common features to compare
+        features_to_compare = [
+            ("Price", lambda v: v.get('price', 'N/A')),
+            ("Type", lambda v: v.get('parsed_name', {}).get('vehicle_type', 'N/A')),
+            ("Horsepower", lambda v: v.get('specifications', {}).get('horsepower', 'N/A')),
+            ("EPA Range", lambda v: v.get('specifications', {}).get('epa_range', 'N/A')),
+            ("Drive", lambda v: v.get('specifications', {}).get('drive', 'N/A')),
+            ("Exterior Color", lambda v: v.get('specifications', {}).get('exterior_color', 'N/A'))
+        ]
+        
+        # Add feature rows
+        for feature_name, getter in features_to_compare:
+            row = {"Feature": feature_name}
+            for i, vehicle in enumerate(vehicles_to_compare):
+                row[f"Vehicle {i+1}"] = getter(vehicle)
+            comparison_data["rows"].append(row)
+        
+        return {
+            "comparison": comparison_data,
+            "session_id": session_id
+        }
+            
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
+
 if __name__ == "__main__":
     if PRODUCTION_MODE : 
         app.run(ssl_context=("ssl/cert.pem", "ssl/key.pem"), host="0.0.0.0", port=5002)
