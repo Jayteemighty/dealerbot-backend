@@ -387,7 +387,6 @@ async def chat_compare_vehicles(request: Request):
     try:
         data = await request.json()
         vehicles_data = data.get('vehicles', [])
-        session_id = data.get('session_id')
         
         if len(vehicles_data) < 2:
             raise HTTPException(
@@ -397,55 +396,60 @@ async def chat_compare_vehicles(request: Request):
             
         # Load full vehicle data
         with open(VEHICLE_DATA, "r", encoding='utf-8') as file:
-            all_vehicles = json.load(file)
+            all_data = json.load(file)
         
-        # Find the vehicles to compare
-        vehicles_to_compare = []
-        for category in all_vehicles.values():
+        # Flatten all vehicles into a single list
+        all_vehicles = []
+        for category in all_data.values():
             if isinstance(category, dict):
-                for vehicle in category.values():
-                    if isinstance(vehicle, dict) and vehicle.get('vin') in vehicles_data:
-                        vehicles_to_compare.append(vehicle)
-                        if len(vehicles_to_compare) == len(vehicles_data):
-                            break
+                all_vehicles.extend(category.values())
         
-        if len(vehicles_to_compare) != len(vehicles_data):
+        # Find matching vehicles by VIN
+        vehicles_to_compare = []
+        for vin in vehicles_data:
+            vehicle = next((v for v in all_vehicles 
+                          if isinstance(v, dict) and v.get('vin') == vin), None)
+            if vehicle:
+                vehicles_to_compare.append(vehicle)
+        
+        if len(vehicles_to_compare) < 2:
             raise HTTPException(
                 status_code=status.HTTP_404_NOT_FOUND,
-                detail="Some vehicles could not be found"
+                detail="Couldn't find matching vehicles"
             )
         
-        # Create tabular comparison data
+        # Define the comparison fields we want to show
+        comparison_fields = [
+            ('Price', lambda v: v.get('price', 'N/A')),
+            ('Year', lambda v: v.get('parsed_name', {}).get('year', 'N/A')),
+            ('Model', lambda v: v.get('parsed_name', {}).get('model', 'N/A')),
+            ('Trim', lambda v: v.get('parsed_name', {}).get('trim', 'N/A')),
+            ('Type', lambda v: v.get('parsed_name', {}).get('vehicle_type', 'N/A')),
+            ('Horsepower', lambda v: v.get('specifications', {}).get('horsepower', 'N/A')),
+            ('EPA Range', lambda v: v.get('specifications', {}).get('epa_range', 'N/A')),
+            ('Torque', lambda v: v.get('specifications', {}).get('torque', 'N/A')),
+            ('Drive', lambda v: v.get('specifications', {}).get('drive', 'N/A')),
+            ('Exterior Color', lambda v: v.get('specifications', {}).get('exterior_color', 'N/A')),
+            ('Warranty', lambda v: v.get('warranty', 'N/A').split('\n')[0] if v.get('warranty') else 'N/A')
+        ]
+        
+        # Build comparison data
         comparison_data = {
-            "headers": ["Feature"],
+            "headers": ["Feature"] + [v['vehicle_name'] for v in vehicles_to_compare],
             "rows": []
         }
         
-        # Add vehicle names as headers
-        comparison_data["headers"].extend(
-            [v['vehicle_name'] for v in vehicles_to_compare]
-        )
-        
-        # Common features to compare
-        features_to_compare = [
-            ("Price", lambda v: v.get('price', 'N/A')),
-            ("Type", lambda v: v.get('parsed_name', {}).get('vehicle_type', 'N/A')),
-            ("Horsepower", lambda v: v.get('specifications', {}).get('horsepower', 'N/A')),
-            ("EPA Range", lambda v: v.get('specifications', {}).get('epa_range', 'N/A')),
-            ("Drive", lambda v: v.get('specifications', {}).get('drive', 'N/A')),
-            ("Exterior Color", lambda v: v.get('specifications', {}).get('exterior_color', 'N/A'))
-        ]
-        
-        # Add feature rows
-        for feature_name, getter in features_to_compare:
-            row = {"Feature": feature_name}
+        # Add each comparison field
+        for field_name, getter in comparison_fields:
+            row = {"Feature": field_name}
             for i, vehicle in enumerate(vehicles_to_compare):
-                row[f"Vehicle {i+1}"] = getter(vehicle)
+                value = getter(vehicle)
+                row[f"Vehicle {i+1}"] = value if value not in [None, ""] else "N/A"
             comparison_data["rows"].append(row)
         
         return {
             "comparison": comparison_data,
-            "session_id": session_id
+            "session_id": data.get('session_id')
         }
             
     except Exception as e:
