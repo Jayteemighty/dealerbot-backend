@@ -395,7 +395,7 @@ async def chat_compare_vehicles(request: Request):
             )
             
         # Load full vehicle data
-        with open(VEHICLE_DATA, "r", encoding='utf-8') as file:
+        with open(VEHICLE_DATA, 'r', encoding='utf-8') as file:
             all_data = json.load(file)
         
         # Flatten all vehicles into a single list
@@ -433,18 +433,19 @@ async def chat_compare_vehicles(request: Request):
             ('Warranty', lambda v: v.get('warranty', 'N/A').split('\n')[0] if v.get('warranty') else 'N/A')
         ]
         
-        # Build comparison data
+        # Build comparison data - FIX: Use actual vehicle names as keys
         comparison_data = {
             "headers": ["Feature"] + [v['vehicle_name'] for v in vehicles_to_compare],
             "rows": []
         }
         
-        # Add each comparison field
+        # Add each comparison field - FIX: Use vehicle names as keys instead of "Vehicle 1", "Vehicle 2"
         for field_name, getter in comparison_fields:
             row = {"Feature": field_name}
-            for i, vehicle in enumerate(vehicles_to_compare):
+            for vehicle in vehicles_to_compare:
                 value = getter(vehicle)
-                row[f"Vehicle {i+1}"] = value if value not in [None, ""] else "N/A"
+                # Use the actual vehicle name as the key to match headers
+                row[vehicle['vehicle_name']] = value if value not in [None, ""] else "N/A"
             comparison_data["rows"].append(row)
         
         return {
