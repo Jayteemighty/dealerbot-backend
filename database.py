@@ -6,9 +6,9 @@ import os
 # PostgreSQL connection details
 DB_CONFIG = {
     "dbname": "postgres",
-    "user": "postgres",
+    "user": "postgres.lhzdtcmtwlitnckzxnoh",
     "password": "FzgSYEc4QWM.fe-",
-    "host": "db.lhzdtcmtwlitnckzxnoh.supabase.co",
+    "host": "aws-0-eu-west-1.pooler.supabase.com",
     "port": "5432",
     "sslmode": "require"
 }
