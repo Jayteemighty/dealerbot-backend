@@ -10,6 +10,7 @@ DB_CONFIG = {
     "password": "FzgSYEc4QWM.fe-",
     "host": "db.lhzdtcmtwlitnckzxnoh.supabase.co",
     "port": "5432",
+    "sslmode": "require"
 }
 
 # Create a connection pool
