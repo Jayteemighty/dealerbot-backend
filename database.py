@@ -5,10 +5,10 @@ import os
 
 # PostgreSQL connection details
 DB_CONFIG = {
-    "dbname": "delaerbot",
-    "user": "dealerbot_admin",
-    "password": "dlb_admin_25!!",
-    "host": "147.93.119.68",
+    "dbname": "postgres",
+    "user": "postgres",
+    "password": "FzgSYEc4QWM.fe-",
+    "host": "db.lhzdtcmtwlitnckzxnoh.supabase.co",
     "port": "5432",
 }
 
