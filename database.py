@@ -5,12 +5,12 @@ import os
 
 # PostgreSQL connection details
 DB_CONFIG = {
-    "dbname": "postgres",
-    "user": "postgres.lhzdtcmtwlitnckzxnoh",
-    "password": "FzgSYEc4QWM.fe-",
-    "host": "aws-0-eu-west-1.pooler.supabase.com",
-    "port": "5432",
-    "sslmode": "require"
+    "dbname": os.getenv("DB_NAME", "postgres"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD"),
+    "host": os.getenv("DB_HOST"),
+    "port": os.getenv("DB_PORT", "5432"),
+    "sslmode": "require",
 }
 
 # Create a connection pool
